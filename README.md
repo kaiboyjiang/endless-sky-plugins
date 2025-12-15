@@ -1,6 +1,6 @@
-# **my endless-sky-plugins**
+Any bugs or questions? Mention me in the game's [official Discord server](https://discord.gg/ZeuASSx).
 
-Instruction how to setup the repo can be found <a href="instructions.md">here</a>.
+A big thank you to Zuckung for this plugin repository template, and Nova1422 for helping me set it up.
 
 <br>
 
