@@ -1,3 +1,4 @@
+2025-12-15 | update: more_skipper_railguns
 2025-12-15 | update: buyable_unfettered_weapons
 2025-12-15 | update: buyable_faesmar
 2025-04-10 | initial template repository setup

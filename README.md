@@ -10,6 +10,7 @@ Instruction how to setup the repo can be found <a href="instructions.md">here</a
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-12-15 | update: more_skipper_railguns<br>
 2025-12-15 | update: buyable_unfettered_weapons<br>
 2025-12-15 | update: buyable_faesmar<br>
 2025-04-10 | initial template repository setup<br>
@@ -81,7 +82,7 @@ Instruction how to setup the repo can be found <a href="instructions.md">here</a
 
 <img src="myplugins/more_gatling_guns/icon.png" height="100">
 
-[more_gatling_guns.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0-more_gatling_guns/more_gatling_guns.zip) | N/A | N/A | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/more_gatling_guns/) <a href="res/imagemd/more_gatling_guns.md">view images</a> [3]<br>
+[more_gatling_guns.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.0-more_gatling_guns/more_gatling_guns.zip) | 50.98 kb | 2025-12-15 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/more_gatling_guns/) <a href="res/imagemd/more_gatling_guns.md">view images</a> [3]<br>
 <br>
 >Adds two Twin Gatling Guns with different firing patterns to all outfitters with the regular Gatling Gun.
 >
@@ -101,7 +102,7 @@ Instruction how to setup the repo can be found <a href="instructions.md">here</a
 
 <img src="myplugins/more_skipper_railguns/icon.png" height="100">
 
-[more_skipper_railguns.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0-more_skipper_railguns/more_skipper_railguns.zip) | N/A | N/A | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/more_skipper_railguns/) <a href="res/imagemd/more_skipper_railguns.md">view images</a> [2]<br>
+[more_skipper_railguns.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.0-more_skipper_railguns/more_skipper_railguns.zip) | 54.47 kb | 2025-12-15 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/more_skipper_railguns/) <a href="res/imagemd/more_skipper_railguns.md">view images</a> [2]<br>
 <br>
 >Adds the Twin Skipper Railgun to all Hai Advanced outfitters, namely those at
 >	Hai-home in the Ya Hai system
