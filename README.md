@@ -10,6 +10,7 @@ Instruction how to setup the repo can be found <a href="instructions.md">here</a
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-12-15 | update: more_gatling_guns<br>
 2025-12-15 | update: buyable_faesmar<br>
 2025-04-10 | initial template repository setup<br>
 <img width="882" height="1"><br>
@@ -60,7 +61,7 @@ Instruction how to setup the repo can be found <a href="instructions.md">here</a
 
 <img src="myplugins/buyable_unfettered_weapons/icon.png" height="100">
 
-[buyable_unfettered_weapons.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0-buyable_unfettered_weapons/buyable_unfettered_weapons.zip) | N/A | N/A | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_unfettered_weapons/) <a href="res/imagemd/buyable_unfettered_weapons.md">view images</a> [1]<br>
+[buyable_unfettered_weapons.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.0-buyable_unfettered_weapons/buyable_unfettered_weapons.zip) | 23.08 kb | 2025-12-15 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_unfettered_weapons/) <a href="res/imagemd/buyable_unfettered_weapons.md">view images</a> [1]<br>
 <br>
 >Adds the Tripulse Shredder, Ionic Blaster Prototype, and Ionic Turret Prototype to Darkcloak in the Wah Yoot system.
 >
@@ -80,7 +81,7 @@ Instruction how to setup the repo can be found <a href="instructions.md">here</a
 
 <img src="myplugins/more_gatling_guns/icon.png" height="100">
 
-[more_gatling_guns.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0-more_gatling_guns/more_gatling_guns.zip) | N/A | N/A | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/more_gatling_guns/) <a href="res/imagemd/more_gatling_guns.md">view images</a> [3]<br>
+[more_gatling_guns.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.0-more_gatling_guns/more_gatling_guns.zip) | 50.98 kb | 2025-12-15 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/more_gatling_guns/) <a href="res/imagemd/more_gatling_guns.md">view images</a> [3]<br>
 <br>
 >Adds two Twin Gatling Guns with different firing patterns to all outfitters with the regular Gatling Gun.
 >

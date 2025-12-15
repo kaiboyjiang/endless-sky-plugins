@@ -1,2 +1,3 @@
+2025-12-15 | update: more_gatling_guns
 2025-12-15 | update: buyable_faesmar
 2025-04-10 | initial template repository setup
