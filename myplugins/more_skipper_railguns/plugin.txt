@@ -1,7 +1,0 @@
-name "More Skipper Railguns"
-about "Adds the Twin Skipper Railgun to all Hai Advanced outfitters, namely those at"
-about "	Hai-home in the Ya Hai system"
-about "	Icelake in the Uwa Fahn system"
-about "	Makerplace in the Ula Mon system"
-about ""
-about "Made by kaiboy, assets are from endless-sky-high-dpi and edited by kaiboy."

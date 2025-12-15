@@ -1,4 +1,0 @@
-name "More Gatling Guns"
-about "Adds two Twin Gatling Guns with different firing patterns to all outfitters with the regular Gatling Gun."
-about ""
-about "Made by kaiboy, assets are from endless-sky-high-dpi and edited by kaiboy."

@@ -1,2 +1,0 @@
-outfitter "Hai Advanced"
-	"Twin Railgun"
