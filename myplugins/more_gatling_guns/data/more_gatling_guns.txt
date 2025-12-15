@@ -1,0 +1,73 @@
+outfit "Twin Gatling"
+	category "Secondary Weapons"
+	series "Secondary Weapons"
+	index 01140
+	cost 42000
+	thumbnail "outfit/twin_gat"
+	"mass" 5
+	"outfit space" -17
+	"weapon capacity" -17
+	"gun ports" -1
+	"gatling round capacity" 6000
+	weapon
+		sprite "projectile/tinyflare"
+			"random start frame"
+		sound "gatling"
+		ammo "Gatling Gun Ammo"
+		icon "icon/gat"
+		"inaccuracy" 2
+		"velocity" 16
+		"lifetime" 1
+		"reload" 1.5
+		"burst count" 360
+		"burst reload" .5
+		"firing energy" .03
+		"firing heat" 2.5
+		"submunition" "gbullet"
+		"cluster"
+		"hit effect" "bullet impact"
+	description `These two Gatling Guns have been crudely joined to fit into a single gun port, offering twice as much damage but twice the heat and power consumption, along with a little bit of extra mass. However, it still needs to cool down for twice as long as it fires, and can only sustain a maximum of three seconds of continuous fire.`
+	description "	Ammunition for this weapon can be restocked at any outfitter."
+		to display
+			has "gamerule: universal ammo restocking"
+
+outfit "Twin Gatling (Staggered)"
+	category "Secondary Weapons"
+	series "Secondary Weapons"
+	index 01140
+	cost 50000
+	thumbnail "outfit/twin_gat_stag"
+	"mass" 5
+	"outfit space" -17
+	"weapon capacity" -17
+	"gun ports" -1
+	"gatling round capacity" 6000
+	weapon
+		sprite "projectile/tinyflare"
+			"random start frame"
+		sound "gatling"
+		ammo "Gatling Gun Ammo"
+		icon "icon/gat"
+		"inaccuracy" 2
+		"velocity" 16
+		"lifetime" 1
+		"reload" 1.5
+		"burst count" 180
+		"burst reload" 1
+		"firing energy" .03
+		"firing heat" 2.5
+		"submunition" "gbullet"
+		"cluster"
+		"hit effect" "bullet impact"
+	description `These two Gatling Guns have been crudely joined to fit into a single gun port, offering twice as much damage but twice the heat and power consumption, along with a little bit of extra mass. However, an intricate mechanism staggers the fire of the two guns. It needs to cool down for half as long as it fires, and can only sustain a maximum of three seconds of continuous fire.`
+	description "	Ammunition for this weapon can be restocked at any outfitter."
+		to display
+			has "gamerule: universal ammo restocking"
+
+outfitter "FW Security"
+	"Twin Gatling"
+	"Twin Gatling (Staggered)"
+
+outfitter "Pirate Advanced"
+	"Twin Gatling"
+	"Twin Gatling (Staggered)"

@@ -1,0 +1,34 @@
+outfit "Twin Railgun"
+	"display name" "Twin Skipper Railgun"
+	category "Secondary Weapons"
+	series "Secondary Weapons"
+	index 02020
+	cost 45000
+	thumbnail "outfit/twin_railgun"
+	"mass" 3
+	"outfit space" -9
+	"weapon capacity" -9
+	"gun ports" -1
+	"railgun slug capacity" 2000
+	weapon
+		sprite "projectile/rail slug"
+			"frame rate" 30
+		ammo "Railgun Slug"
+		icon "icon/rail gun"
+		sound "ion impact"
+		"fire effect" "rail sparks"
+		"hit effect" "bullet impact"
+		"inaccuracy" 3
+		"velocity" 44
+		"lifetime" 1
+		"range override" 2100
+		"reload" 6
+		"firing energy" 3.5
+		"firing heat" 7.2
+		"firing force" 105
+		"stream"
+		"submunition" "rslug" 1
+	description "This weapon is, quite simply, the internals of two Skipper Railguns in a larger frame."
+	description "	Ammunition for this weapon can be restocked at any outfitter."
+		to display
+			has "gamerule: universal ammo restocking"
