@@ -6,7 +6,6 @@ A big thank you to Zuckung for this plugin repository template, and Nova1422 for
 <table>
 <tr>
 <td><img width="882" height="1"><br>
-2025-12-15 | update: more_skipper_railguns<br>
 2025-12-15 | update: buyable_unfettered_weapons<br>
 2025-12-15 | update: buyable_faesmar<br>
 2025-04-10 | initial template repository setup<br>
@@ -23,9 +22,7 @@ A big thank you to Zuckung for this plugin repository template, and Nova1422 for
 <a href="README.md#buyable_faesmar">buyable_faesmar</a><br>
 <a href="README.md#buyable_unfettered_weapons">buyable_unfettered_weapons</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
-<a href="README.md#more_gatling_guns">more_gatling_guns</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
-<a href="README.md#more_skipper_railguns">more_skipper_railguns</a><br>
 <img width="294" height="1"><br></td></tr></table>
 
 
