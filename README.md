@@ -2,10 +2,6 @@ Any bugs or questions? Mention me in the game's [official Discord server](https:
 
 A big thank you to Zuckung for this plugin repository template, and Nova1422 for helping me set it up.
 
-<br>
-
-<br>
-
 ## Latest News:
 <table>
 <tr>
