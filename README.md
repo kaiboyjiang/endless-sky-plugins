@@ -1,11 +1,17 @@
-Any bugs or questions? Mention me in the game's [official Discord server](https://discord.gg/ZeuASSx).
+# **my endless-sky-plugins**
 
-A big thank you to Zuckung for this plugin repository template, and Nova1422 for helping me set it up.
+Instruction how to setup the repo can be found <a href="instructions.md">here</a>.
+
+<br>
+
+<br>
 
 ## Latest News:
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-12-15 | update: more_small_weapons<br>
+2025-12-15 | update: more_skipper_railguns<br>
 2025-12-15 | update: buyable_unfettered_weapons<br>
 2025-12-15 | update: buyable_faesmar<br>
 2025-04-10 | initial template repository setup<br>
@@ -20,9 +26,10 @@ A big thank you to Zuckung for this plugin repository template, and Nova1422 for
 <tr valign="top">
 <td><img width="294" height="1"><br>
 <a href="README.md#buyable_faesmar">buyable_faesmar</a><br>
+<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#buyable_unfettered_weapons">buyable_unfettered_weapons</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
-<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
+<a href="README.md#more_small_weapons">more_small_weapons</a><br>
 <img width="294" height="1"><br></td></tr></table>
 
 
@@ -70,3 +77,22 @@ A big thank you to Zuckung for this plugin repository template, and Nova1422 for
 
 
 ---
+
+### more_small_weapons
+
+<img src="myplugins/more_small_weapons/icon.png" height="100">
+
+[more_small_weapons.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.0-more_small_weapons/more_small_weapons.zip) | 108.05 kb | 2025-12-15 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/more_small_weapons/) <a href="res/imagemd/more_small_weapons.md">view images</a> [5]<br>
+<br>
+>This plugin adds various merged small weapons.
+>The Twin Gatling and Twin Gatling (Staggered) are sold at all outfitters with the regular Gatling Gun.
+>The Twin Skipper Railgun and Quad Skipper Railgun are sold at all outfitters with the regular Skipper Railgun.
+>
+>Made by kaiboy, assets are from endless-sky-high-dpi and edited by kaiboy.
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>N/A</blockquote>
+</details>
+
+<br>
