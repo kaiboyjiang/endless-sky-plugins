@@ -6,6 +6,7 @@ A big thank you to Zuckung for this plugin repository template and Nova1422 for 
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-12-17 | update: KGS<br>
 2025-12-15 | update: more_small_weapons<br>
 2025-12-15 | update: more_skipper_railguns<br>
 2025-12-15 | update: buyable_unfettered_weapons<br>
@@ -21,15 +22,38 @@ A big thank you to Zuckung for this plugin repository template and Nova1422 for 
 <table>
 <tr valign="top">
 <td><img width="294" height="1"><br>
+<a href="README.md#KGS">KGS</a><br>
+<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#buyable_faesmar">buyable_faesmar</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#buyable_unfettered_weapons">buyable_unfettered_weapons</a><br>
-<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
-<a href="README.md#more_small_weapons">more_small_weapons</a><br>
 <img width="294" height="1"><br></td></tr></table>
 
 
 
+
+
+---
+
+### KGS
+
+<img src="myplugins/KGS/icon.png" height="100">
+
+[KGS.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.0-KGS/KGS.zip) | 302.66 kb | 2025-12-17 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/KGS/) <a href="res/imagemd/KGS.md">view images</a> [10]<br>
+<br>
+>This plugin adds various merged stuff. All have been kitbashed in GIMP, and GIMP only.
+>
+>Twin Gatling, Twin Gatling (Staggered) at all outfitters with the regular Gatling Gun.
+>Twin Skipper Railgun, Quad Skipper Railgun, 2x3 Skipper Railgun, 3x3 Skipper Railgun, 3x4 Skipper Railgun, 4x4 Skipper Railgun, 4x5 Skipper Railgun at all outfitters with the regular Skipper Railgun.
+>
+>Made by kaiboy, assets are from endless-sky-high-dpi and edited by kaiboy.
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>N/A</blockquote>
+</details>
+
+<br>
 
 
 ---
@@ -63,28 +87,6 @@ A big thank you to Zuckung for this plugin repository template and Nova1422 for 
 >Adds the Tripulse Shredder, Ionic Blaster Prototype, and Ionic Turret Prototype to Darkcloak in the Wah Yoot system.
 >
 >Made by kaiboy.
-
-<details>
-<summary>:blue_book: Plugin readme</summary>
-<blockquote>N/A</blockquote>
-</details>
-
-<br>
-
-
----
-
-### more_small_weapons
-
-<img src="myplugins/more_small_weapons/icon.png" height="100">
-
-[more_small_weapons.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.0-more_small_weapons/more_small_weapons.zip) | 108.05 kb | 2025-12-15 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/more_small_weapons/) <a href="res/imagemd/more_small_weapons.md">view images</a> [5]<br>
-<br>
->This plugin adds various merged small weapons.
->The Twin Gatling and Twin Gatling (Staggered) are sold at all outfitters with the regular Gatling Gun.
->The Twin Skipper Railgun and Quad Skipper Railgun are sold at all outfitters with the regular Skipper Railgun.
->
->Made by kaiboy, assets are from endless-sky-high-dpi and edited by kaiboy.
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
