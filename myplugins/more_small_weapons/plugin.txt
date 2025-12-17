@@ -1,6 +1,0 @@
-name "More Small Weapons"
-about "This plugin adds various merged small weapons."
-about "The Twin Gatling and Twin Gatling (Staggered) are sold at all outfitters with the regular Gatling Gun."
-about "The Twin Skipper Railgun and Quad Skipper Railgun are sold at all outfitters with the regular Skipper Railgun."
-about ""
-about "Made by kaiboy, assets are from endless-sky-high-dpi and edited by kaiboy."
