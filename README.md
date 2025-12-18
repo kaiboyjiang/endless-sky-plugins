@@ -40,7 +40,7 @@ A big thank you to Zuckung for this plugin repository template and Nova1422 for 
 
 <img src="myplugins/KGS/icon.png" height="100">
 
-[KGS.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.2-KGS/KGS.zip) | 518.54 kb | 2025-12-18 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/KGS/) <a href="res/imagemd/KGS.md">view images</a> [12]<br>
+[KGS.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.3-KGS/KGS.zip) | 518.54 kb | 2025-12-18 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/KGS/) <a href="res/imagemd/KGS.md">view images</a> [12]<br>
 <br>
 >This plugin adds various merged stuff. All have been kitbashed in GIMP, and GIMP only.
 >
