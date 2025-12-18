@@ -1,5 +1,5 @@
 KGS|1.0.3
-buyable_faesmar|1.0.0
+buyable_faesmar|1.0.1
 buyable_unfettered_weapons|1.0.0
 example.plugin|1.0.0
 more_skipper_railguns|1.0.0

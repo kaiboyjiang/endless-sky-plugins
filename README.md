@@ -6,6 +6,7 @@ A big thank you to Zuckung for this plugin repository template and Nova1422 for 
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-12-18 | update: buyable_faesmar<br>
 2025-12-18 | update: KGS<br>
 2025-12-17 | update: KGS<br>
 2025-12-15 | update: more_small_weapons<br>
@@ -65,7 +66,7 @@ A big thank you to Zuckung for this plugin repository template and Nova1422 for 
 
 <img src="myplugins/buyable_faesmar/icon.png" height="100">
 
-[buyable_faesmar.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.0-buyable_faesmar/buyable_faesmar.zip) | 37.8 kb | 2025-12-15 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_faesmar/) <a href="res/imagemd/buyable_faesmar.md">view images</a> [1]<br>
+[buyable_faesmar.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.1-buyable_faesmar/buyable_faesmar.zip) | 38.19 kb | 2025-12-18 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_faesmar/) <a href="res/imagemd/buyable_faesmar.md">view images</a> [1]<br>
 <br>
 >Adds the Faes'mar to all Remnant shipyards.
 >
