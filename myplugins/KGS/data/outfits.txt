@@ -234,7 +234,7 @@ outfit "3x4 Railgun"
 		"firing force" 105
 		"stream"
 		"submunition" "rslug" 1
-	description "This weapon is 12 Skipper Railguns in a 3x4 pattern. Captains who use these swear that flying backwards with them make engines unnecesary."
+	description "This weapon is 12 Skipper Railguns in a 3x4 pattern. Captains who use these swear that flying backwards with them make engines unnecessary."
 	description "	Ammunition for this weapon can be restocked at any outfitter."
 		to display
 			has "gamerule: universal ammo restocking"

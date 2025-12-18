@@ -1,3 +1,5 @@
+shipyard "Southbound Advanced"
+	"Hauler IV"
 outfitter "FW Security"
 	"Twin Gatling"
 	"Twin Gatling (Staggered)"
