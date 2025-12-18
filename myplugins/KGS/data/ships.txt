@@ -43,10 +43,10 @@ ship "Hauler IV"
 	engine 45 230
 	gun -14.5 -200
 	gun 14.5 -200
-	turret -21.5 -155.5 "Quad Blaster Turret"
-	turret 21.5 -155.5 "Heavy Anti-Missile Turret"
-	turret -18.5 186 "Heavy Anti-Missile Turret"
-	turret 18.5 186 "Quad Blaster Turret"
+	turret -21.5 -159.5 "Quad Blaster Turret"
+	turret 21.5 -159.5 "Heavy Anti-Missile Turret"
+	turret -18.5 188 "Heavy Anti-Missile Turret"
+	turret 18.5 188 "Quad Blaster Turret"
 	leak "leak" 50 50
 	leak "flame" 40 80
 	leak "big leak" 80 30
