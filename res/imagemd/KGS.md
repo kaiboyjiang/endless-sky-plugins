@@ -28,7 +28,9 @@ graphic files for the plugin: KGS<br>
 	<tr valign="bottom">
 		<td><a href="https://github.com/kaiboyjiang/endless-sky-plugins/blob/main/myplugins/KGS/images/outfit/twin_railgun.png"><img src="https://raw.githubusercontent.com/kaiboyjiang/endless-sky-plugins/refs/heads/main/myplugins/KGS/images/outfit/twin_railgun.png" width="168" height="104"></a><br>
 		twin_railgun.png [168x104]</td>
-		<td></td>
-		<td></td>
+		<td><a href="https://github.com/kaiboyjiang/endless-sky-plugins/blob/main/myplugins/KGS/images/ship/hauler_iv.png"><img src="https://raw.githubusercontent.com/kaiboyjiang/endless-sky-plugins/refs/heads/main/myplugins/KGS/images/ship/hauler_iv.png" height="200"></a><br>
+		hauler_iv.png [179x467]</td>
+		<td><a href="https://github.com/kaiboyjiang/endless-sky-plugins/blob/main/myplugins/KGS/images/thumbnail/hauler_iv.png"><img src="https://raw.githubusercontent.com/kaiboyjiang/endless-sky-plugins/refs/heads/main/myplugins/KGS/images/thumbnail/hauler_iv.png" width="200"></a><br>
+		hauler_iv.png [237x200]</td>
 	</tr>
 </table>
