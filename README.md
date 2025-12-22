@@ -6,6 +6,7 @@ A big thank you to Zuckung for this plugin repository template and Nova1422 for 
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-12-22 | update: buyable_wanderer_ships<br>
 2025-12-18 | update: buyable_unfettered_weapons<br>
 2025-12-18 | update: buyable_faesmar<br>
 2025-12-18 | update: KGS<br>
@@ -26,10 +27,11 @@ A big thank you to Zuckung for this plugin repository template and Nova1422 for 
 <tr valign="top">
 <td><img width="294" height="1"><br>
 <a href="README.md#KGS">KGS</a><br>
-<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#buyable_faesmar">buyable_faesmar</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#buyable_unfettered_weapons">buyable_unfettered_weapons</a><br>
+<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
+<a href="README.md#buyable_wanderer_ships">buyable_wanderer_ships</a><br>
 <img width="294" height="1"><br></td></tr></table>
 
 
@@ -92,6 +94,26 @@ A big thank you to Zuckung for this plugin repository template and Nova1422 for 
 >Adds the Tripulse Shredder, Ionic Blaster Prototype, and Ionic Turret Prototype to Darkcloak in the Wah Yoot system.
 >
 >Made by kaiboy.
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>N/A</blockquote>
+</details>
+
+<br>
+
+
+---
+
+### buyable_wanderer_ships
+
+<img src="myplugins/buyable_wanderer_ships/icon.png" height="100">
+
+[buyable_wanderer_ships.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.0-buyable_wanderer_ships/buyable_wanderer_ships.zip) | 23.86 kb | 2025-12-22 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_wanderer_ships/) <a href="res/imagemd/buyable_wanderer_ships.md">view images</a> [1]<br>
+<br>
+>Adds the Cool Breeze and Winter Gale to all Wanderer shipyards with the Strong Wind.
+>
+>Made by kaiboy. Copied from Rumskib.
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
