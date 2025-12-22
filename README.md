@@ -109,9 +109,9 @@ A big thank you to Zuckung for this plugin repository template and Nova1422 for 
 
 <img src="myplugins/buyable_wanderer_ships/icon.png" height="100">
 
-[buyable_wanderer_ships.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.0-buyable_wanderer_ships/buyable_wanderer_ships.zip) | 23.86 kb | 2025-12-22 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_wanderer_ships/) <a href="res/imagemd/buyable_wanderer_ships.md">view images</a> [1]<br>
+[buyable_wanderer_ships.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.1-buyable_wanderer_ships/buyable_wanderer_ships.zip) | 23.88 kb | 2025-12-22 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_wanderer_ships/) <a href="res/imagemd/buyable_wanderer_ships.md">view images</a> [1]<br>
 <br>
->Adds the Cool Breeze and Winter Gale to all Wanderer shipyards with the Strong Wind.
+>Adds the Cool Breeze and Winter Gale to all Wanderer shipyards with the Strong Wind, some time after the completion of the Wanderer campaign.
 >
 >Made by kaiboy. Copied from Rumskib.
 
