@@ -1,4 +1,4 @@
-KGS|1.0.3
+KGS|1.0.4
 buyable_faesmar|1.0.1
 buyable_unfettered_weapons|1.0.1
 buyable_wanderer_ships|1.0.1
