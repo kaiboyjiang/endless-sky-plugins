@@ -6,6 +6,7 @@ A big thank you to Zuckung for this plugin repository template and Nova1422 for 
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-12-25 | update: buyable_wanderer_ships<br>
 2025-12-23 | update: KGS<br>
 2025-12-22 | update: buyable_wanderer_ships<br>
 2025-12-18 | update: buyable_unfettered_weapons<br>
@@ -15,7 +16,6 @@ A big thank you to Zuckung for this plugin repository template and Nova1422 for 
 2025-12-15 | update: more_small_weapons<br>
 2025-12-15 | update: more_skipper_railguns<br>
 2025-12-15 | update: buyable_unfettered_weapons<br>
-2025-12-15 | update: buyable_faesmar<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -111,7 +111,7 @@ A big thank you to Zuckung for this plugin repository template and Nova1422 for 
 
 <img src="myplugins/buyable_wanderer_ships/icon.png" height="100">
 
-[buyable_wanderer_ships.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.1-buyable_wanderer_ships/buyable_wanderer_ships.zip) | 23.88 kb | 2025-12-22 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_wanderer_ships/) <a href="res/imagemd/buyable_wanderer_ships.md">view images</a> [1]<br>
+[buyable_wanderer_ships.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.2-buyable_wanderer_ships/buyable_wanderer_ships.zip) | 23.88 kb | 2025-12-25 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_wanderer_ships/) <a href="res/imagemd/buyable_wanderer_ships.md">view images</a> [1]<br>
 <br>
 >Adds the Cool Breeze and Winter Gale to all Wanderer shipyards with the Strong Wind, some time after the completion of the Wanderer campaign.
 >
