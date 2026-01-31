@@ -1,6 +1,6 @@
 Any bugs or questions? Ping me on the [official Discord server](https://discord.gg/ZeuASSx).
 
-A big thank you to Zuckung for this plugin repository template and Nova1422 for helping me set it up.
+A big thank you to Zuckung for this plugin repository template (get it [here](https://github.com/zuckung/endless-sky-plugins?tab=readme-ov-file#other-things)) and Nova1422 for helping me set it up.
 
 %news%
 
