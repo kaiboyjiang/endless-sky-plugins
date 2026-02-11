@@ -6,6 +6,7 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-02-11 | update: buyable_faesmar<br>
 2025-12-25 | update: buyable_wanderer_ships<br>
 2025-12-23 | update: KGS<br>
 2025-12-22 | update: buyable_wanderer_ships<br>
@@ -15,7 +16,6 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 2025-12-17 | update: KGS<br>
 2025-12-15 | update: more_small_weapons<br>
 2025-12-15 | update: more_skipper_railguns<br>
-2025-12-15 | update: buyable_unfettered_weapons<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -71,15 +71,35 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 
 <img src="myplugins/buyable_faesmar/icon.png" height="100">
 
-[buyable_faesmar.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.1-buyable_faesmar/buyable_faesmar.zip) | 38.19 kb | 2025-12-18 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_faesmar/) <a href="res/imagemd/buyable_faesmar.md">view images</a> [1]<br>
+[buyable_faesmar.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.1.0-buyable_faesmar/buyable_faesmar.zip) | 121.25 kb | 2026-02-11 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_faesmar/) <a href="res/imagemd/buyable_faesmar.md">view images</a> [2]<br>
 <br>
 >Adds the Faes'mar to all Remnant shipyards.
->
->Made by kaiboy.
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
-<blockquote>N/A</blockquote>
+<blockquote># Buyable Faes'mar
+
+
+
+Adds the Faes'mar to all Remnant shipyards.
+
+
+
+## Changelog
+
+
+
+- ### 1.1.0
+
+  - New icon
+
+  - Updated plugin.txt to be more descriptive
+
+  - Added this readme
+
+  - Removed an empty line at the end of license.txt
+
+</blockquote>
 </details>
 
 <br>
