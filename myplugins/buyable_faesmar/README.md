@@ -1,5 +1,7 @@
 # Buyable Faes'mar
 
+![icon.png](icon@2x.png)
+
 Adds the Faes'mar to all Remnant shipyards.
 
 ## Changelog
