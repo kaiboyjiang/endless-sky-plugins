@@ -26,12 +26,12 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 <table>
 <tr valign="top">
 <td><img width="294" height="1"><br>
-<a href="README.md#KGS">KGS</a><br>
-<a href="README.md#buyable_faesmar">buyable_faesmar</a><br>
+<a href="https://github.com/kaiboyjiang/endless-sky-plugins?tab=readme-ov-file#KGS">KGS</a><br>
+<a href="https://github.com/kaiboyjiang/endless-sky-plugins?tab=readme-ov-file#buyable_faesmar">buyable_faesmar</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
-<a href="README.md#buyable_unfettered_weapons">buyable_unfettered_weapons</a><br>
+<a href="https://github.com/kaiboyjiang/endless-sky-plugins?tab=readme-ov-file#buyable_unfettered_weapons">buyable_unfettered_weapons</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
-<a href="README.md#buyable_wanderer_ships">buyable_wanderer_ships</a><br>
+<a href="https://github.com/kaiboyjiang/endless-sky-plugins?tab=readme-ov-file#buyable_wanderer_ships">buyable_wanderer_ships</a><br>
 <img width="294" height="1"><br></td></tr></table>
 
 
