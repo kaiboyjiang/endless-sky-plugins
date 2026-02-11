@@ -81,6 +81,10 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 
 
 
+![icon.png](icon@2x.png)
+
+
+
 Adds the Faes'mar to all Remnant shipyards.
 
 
