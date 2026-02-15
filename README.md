@@ -6,6 +6,7 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-02-15 | update: wanderer_reverse_thrusters<br>
 2026-02-11 | update: buyable_faesmar<br>
 2025-12-25 | update: buyable_wanderer_ships<br>
 2025-12-23 | update: KGS<br>
@@ -15,7 +16,6 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 2025-12-18 | update: KGS<br>
 2025-12-17 | update: KGS<br>
 2025-12-15 | update: more_small_weapons<br>
-2025-12-15 | update: more_skipper_railguns<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -30,8 +30,9 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 <a href="https://github.com/kaiboyjiang/endless-sky-plugins?tab=readme-ov-file#buyable_faesmar">buyable_faesmar</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="https://github.com/kaiboyjiang/endless-sky-plugins?tab=readme-ov-file#buyable_unfettered_weapons">buyable_unfettered_weapons</a><br>
-<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="https://github.com/kaiboyjiang/endless-sky-plugins?tab=readme-ov-file#buyable_wanderer_ships">buyable_wanderer_ships</a><br>
+<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
+<a href="https://github.com/kaiboyjiang/endless-sky-plugins?tab=readme-ov-file#wanderer_reverse_thrusters">wanderer_reverse_thrusters</a><br>
 <img width="294" height="1"><br></td></tr></table>
 
 
@@ -144,6 +145,38 @@ Adds the Faes'mar to all Remnant shipyards.
 <details>
 <summary>:blue_book: Plugin readme</summary>
 <blockquote>N/A</blockquote>
+</details>
+
+<br>
+
+
+---
+
+### wanderer_reverse_thrusters
+
+<img src="myplugins/wanderer_reverse_thrusters/icon.png" height="100">
+
+[wanderer_reverse_thrusters.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.0-wanderer_reverse_thrusters/wanderer_reverse_thrusters.zip) | 572.79 kb | 2026-02-15 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/wanderer_reverse_thrusters/) <a href="res/imagemd/wanderer_reverse_thrusters.md">view images</a> [10]<br>
+<br>
+>Adds Wanderer reverse thrusters.
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote># Wanderer Reverse Thrusters
+
+
+
+![icon.png](icon@2x.png)
+
+
+
+Adds reverse versions of Wanderer thrusters to wherever the original thrusters are sold.
+
+
+
+Idea by Ubrief. Artwork and stats by Ubrief and k.AI.
+
+</blockquote>
 </details>
 
 <br>
