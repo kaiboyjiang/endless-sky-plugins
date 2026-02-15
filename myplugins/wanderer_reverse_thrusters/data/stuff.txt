@@ -34,7 +34,7 @@ outfit "Type 2-R Radiant Thruster"
 	"reverse thrusting heat" 2.4
 	"cooling" 3.6
 	"reverse flare sprite" "effect/wanderer flare/small"
-		"reverse frame rate" 14
+		"frame rate" 14
 	"reverse flare sound" "plasma small"
 	description "Wanderer engines work by transferring excess heat from the ship into the exhaust plasma. When not providing thrust, the engines still serve as a cooling system."
 
