@@ -102,6 +102,15 @@ A vanilla+ content expansion plugin for Endless Sky, containing 34 ships and 40 
 </details>
 
 ## Releases
+
+<details>
+<summary> v2.0.1 (23 Apr 2026) </summary>
+
+The seventh release of KGS, released on the same day as v2.0.0, containing a hotfix removing the test system.
+</details>
+
+<details>
+
 <details>
 <summary> v2.0.0 (23 Apr 2026) </summary>
 

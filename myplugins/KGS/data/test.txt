@@ -240,6 +240,7 @@ system Arculus
 	add link KGS
 
 system KGS
+	inaccessible
 	pos 358.87 393.242
 	government Uninhabited
 	attributes kgs
