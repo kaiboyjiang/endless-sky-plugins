@@ -45,7 +45,7 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 
 <img src="myplugins/KGS/icon.png" height="100">
 
-[KGS.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v2.0.0-KGS/KGS.zip) | 23.91 mb | 2026-04-23 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/KGS/) <a href="res/imagemd/KGS.md">view images</a> [408]<br>
+[KGS.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v2.0.1-KGS/KGS.zip) | 23.91 mb | 2026-04-23 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/KGS/) <a href="res/imagemd/KGS.md">view images</a> [408]<br>
 <br>
 >A vanilla+ content expansion plugin.
 >
@@ -263,6 +263,24 @@ A vanilla+ content expansion plugin for Endless Sky, containing 34 ships and 40 
 
 
 ## Releases
+
+
+
+<details>
+
+<summary> v2.0.1 (23 Apr 2026) </summary>
+
+
+
+The seventh release of KGS, released on the same day as v2.0.0, containing a hotfix removing the test system.
+
+</details>
+
+
+
+<details>
+
+
 
 <details>
 
