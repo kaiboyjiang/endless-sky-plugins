@@ -77,14 +77,3 @@ outfit "Type 4-R Radiant Thruster"
 		"frame rate" 18
 	"reverse flare sound" "plasma large"
 	description "This is the largest reverse engine that the Wanderers have developed. Its incredibly efficient design allows it to cool your ship even while it is firing."
-
-outfitter "Wanderer Basics"
-	"Type 1-R Radiant Thruster"
-	"Type 2-R Radiant Thruster"
-	"Type 3-R Radiant Thruster"
-
-outfitter "Wanderer Advanced"
-	"Type 1-R Radiant Thruster"
-	"Type 2-R Radiant Thruster"
-	"Type 3-R Radiant Thruster"
-	"Type 4-R Radiant Thruster"
