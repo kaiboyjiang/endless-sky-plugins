@@ -1,4 +1,0 @@
-# outfitter "Bunrodea Advanced"
-
-outfitter "Bunrodea Advanced"
-	"KGS Twin Mandible Cannon"
