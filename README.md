@@ -6,6 +6,7 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-04-23 | update: buyable_wanderer_ships<br>
 2026-04-23 | update: buyable_unfettered_weapons<br>
 2026-04-23 | update: buyable_faesmar<br>
 2026-02-15 | update: wanderer_reverse_thrusters<br>
@@ -15,7 +16,6 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 2025-12-22 | update: buyable_wanderer_ships<br>
 2025-12-18 | update: buyable_unfettered_weapons<br>
 2025-12-18 | update: buyable_faesmar<br>
-2025-12-18 | update: KGS<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -206,15 +206,62 @@ Adds the Tripulse Shredder, Ionic Blaster Prototype, and Ionic Turret Prototype 
 
 <img src="myplugins/buyable_wanderer_ships/icon.png" height="100">
 
-[buyable_wanderer_ships.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.2-buyable_wanderer_ships/buyable_wanderer_ships.zip) | 23.88 kb | 2025-12-25 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_wanderer_ships/) <a href="res/imagemd/buyable_wanderer_ships.md">view images</a> [1]<br>
+[buyable_wanderer_ships.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.1.0-buyable_wanderer_ships/buyable_wanderer_ships.zip) | 76.99 kb | 2026-04-23 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_wanderer_ships/) <a href="res/imagemd/buyable_wanderer_ships.md">view images</a> [2]<br>
 <br>
 >Adds the Cool Breeze and Winter Gale to all Wanderer shipyards with the Strong Wind, some time after the completion of the Wanderer campaign.
 >
->Made by kaiboy. Copied from Rumskib.
+>See README.md for more details.
+>Get the latest version here:
+>github.com/kaiboyjiang/endless-sky-
+>plugins
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
-<blockquote>N/A</blockquote>
+<blockquote># Buyable Wanderer Ships
+
+
+
+![Icon](https://raw.githubusercontent.com/kaiboyjiang/endless-sky-plugins/v1.1.0-buyable_wanderer_ships/myplugins/buyable_wanderer_ships/icon.png)
+
+
+
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.1.0-buyable_wanderer_ships/buyable_wanderer_ships.zip)
+
+
+
+Adds the Cool Breeze and Winter Gale to all Wanderer shipyards with the Strong Wind, some time after the completion of the Wanderer campaign.
+
+
+
+Missions partially copied from Rumskib.
+
+
+
+## Releases
+
+
+
+<details>
+
+<summary> v1.1.0 (23 Apr 2026) </summary>
+
+
+
+- Shiny new download button
+
+- 2x icon
+
+- Modified fleets
+
+- Updated plugin.txt to be more descriptive
+
+- Added this readme
+
+- Updated license
+
+</details>
+
+</blockquote>
 </details>
 
 <br>
