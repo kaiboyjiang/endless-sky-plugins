@@ -6,6 +6,7 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-04-23 | update: buyable_faesmar<br>
 2026-02-15 | update: wanderer_reverse_thrusters<br>
 2026-02-11 | update: buyable_faesmar<br>
 2025-12-25 | update: buyable_wanderer_ships<br>
@@ -15,7 +16,6 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 2025-12-18 | update: buyable_faesmar<br>
 2025-12-18 | update: KGS<br>
 2025-12-17 | update: KGS<br>
-2025-12-15 | update: more_small_weapons<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -72,9 +72,14 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 
 <img src="myplugins/buyable_faesmar/icon.png" height="100">
 
-[buyable_faesmar.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.1.0-buyable_faesmar/buyable_faesmar.zip) | 121.25 kb | 2026-02-11 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_faesmar/) <a href="res/imagemd/buyable_faesmar.md">view images</a> [2]<br>
+[buyable_faesmar.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.1.1-buyable_faesmar/buyable_faesmar.zip) | 145.7 kb | 2026-04-23 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_faesmar/) <a href="res/imagemd/buyable_faesmar.md">view images</a> [2]<br>
 <br>
 >Adds the Faes'mar to all Remnant shipyards.
+>
+>See README.md for more details.
+>Get the latest version here:
+>github.com/kaiboyjiang/endless-sky-
+>plugins
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
@@ -82,7 +87,11 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 
 
 
-![icon.png](icon@2x.png)
+![Icon](https://raw.githubusercontent.com/kaiboyjiang/endless-sky-plugins/v1.1.1-buyable_faesmar/myplugins/buyable_faesmar/icon.png)
+
+
+
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.1.1-buyable_faesmar/buyable_faesmar.zip)
 
 
 
@@ -90,19 +99,39 @@ Adds the Faes'mar to all Remnant shipyards.
 
 
 
-## Changelog
+## Releases
 
 
 
-- ### 1.1.0
+<details>
 
-  - New icon
+<summary> v1.1.1 (23 Apr 2026) </summary>
 
-  - Updated plugin.txt to be more descriptive
 
-  - Added this readme
 
-  - Removed an empty line at the end of license.txt
+- Shiny new download button
+
+- Reverted icon because it was soft
+
+</details>
+
+
+
+<details>
+
+<summary> v1.1.0 (11 Feb 2026) </summary>
+
+
+
+- New icon
+
+- Updated plugin.txt to be more descriptive
+
+- Added this readme
+
+- Removed an empty line at the end of license.txt
+
+</details>
 
 </blockquote>
 </details>
