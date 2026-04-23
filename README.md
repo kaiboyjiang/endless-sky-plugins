@@ -6,6 +6,7 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-04-23 | update: buyable_unfettered_weapons<br>
 2026-04-23 | update: buyable_faesmar<br>
 2026-02-15 | update: wanderer_reverse_thrusters<br>
 2026-02-11 | update: buyable_faesmar<br>
@@ -15,7 +16,6 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 2025-12-18 | update: buyable_unfettered_weapons<br>
 2025-12-18 | update: buyable_faesmar<br>
 2025-12-18 | update: KGS<br>
-2025-12-17 | update: KGS<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -145,15 +145,56 @@ Adds the Faes'mar to all Remnant shipyards.
 
 <img src="myplugins/buyable_unfettered_weapons/icon.png" height="100">
 
-[buyable_unfettered_weapons.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.1-buyable_unfettered_weapons/buyable_unfettered_weapons.zip) | 23.08 kb | 2025-12-18 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_unfettered_weapons/) <a href="res/imagemd/buyable_unfettered_weapons.md">view images</a> [1]<br>
+[buyable_unfettered_weapons.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.1.0-buyable_unfettered_weapons/buyable_unfettered_weapons.zip) | 73.67 kb | 2026-04-23 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_unfettered_weapons/) <a href="res/imagemd/buyable_unfettered_weapons.md">view images</a> [2]<br>
 <br>
 >Adds the Tripulse Shredder, Ionic Blaster Prototype, and Ionic Turret Prototype to Darkcloak in the Wah Yoot system.
 >
->Made by kaiboy.
+>See README.md for more details.
+>Get the latest version here:
+>github.com/kaiboyjiang/endless-sky-
+>plugins
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
-<blockquote>N/A</blockquote>
+<blockquote># Buyable Unfettered Weapons
+
+
+
+![Icon](https://raw.githubusercontent.com/kaiboyjiang/endless-sky-plugins/v1.1.0-buyable_unfettered_weapons/myplugins/buyable_unfettered_weapons/icon.png)
+
+
+
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.1.0-buyable_unfettered_weapons/buyable_unfettered_weapons.zip)
+
+
+
+Adds the Tripulse Shredder, Ionic Blaster Prototype, and Ionic Turret Prototype to Darkcloak in the Wah Yoot system.
+
+
+
+## Releases
+
+
+
+<details>
+
+<summary> v1.1.0 (23 Apr 2026) </summary>
+
+
+
+- Shiny new download button
+
+- 2x icon
+
+- Updated plugin.txt to be more descriptive
+
+- Added this readme
+
+- Updated license
+
+</details>
+
+</blockquote>
 </details>
 
 <br>
