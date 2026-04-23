@@ -6,6 +6,7 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-04-23 | update: wanderer_reverse_thrusters<br>
 2026-04-23 | update: buyable_wanderer_ships<br>
 2026-04-23 | update: buyable_unfettered_weapons<br>
 2026-04-23 | update: buyable_faesmar<br>
@@ -15,7 +16,6 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 2025-12-23 | update: KGS<br>
 2025-12-22 | update: buyable_wanderer_ships<br>
 2025-12-18 | update: buyable_unfettered_weapons<br>
-2025-12-18 | update: buyable_faesmar<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -273,9 +273,14 @@ Missions partially copied from Rumskib.
 
 <img src="myplugins/wanderer_reverse_thrusters/icon.png" height="100">
 
-[wanderer_reverse_thrusters.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.0-wanderer_reverse_thrusters/wanderer_reverse_thrusters.zip) | 572.79 kb | 2026-02-15 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/wanderer_reverse_thrusters/) <a href="res/imagemd/wanderer_reverse_thrusters.md">view images</a> [10]<br>
+[wanderer_reverse_thrusters.zip](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.1-wanderer_reverse_thrusters/wanderer_reverse_thrusters.zip) | 573.33 kb | 2026-04-23 | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/wanderer_reverse_thrusters/) <a href="res/imagemd/wanderer_reverse_thrusters.md">view images</a> [10]<br>
 <br>
 >Adds Wanderer reverse thrusters.
+>
+>See README.md for more details.
+>Get the latest version here:
+>github.com/kaiboyjiang/endless-sky-
+>plugins
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
@@ -283,7 +288,11 @@ Missions partially copied from Rumskib.
 
 
 
-![icon.png](icon@2x.png)
+![Icon](https://raw.githubusercontent.com/kaiboyjiang/endless-sky-plugins/v1.0.1-wanderer_reverse_thrusters/myplugins/wanderer_reverse_thrusters/icon.png)
+
+
+
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.1-wanderer_reverse_thrusters/wanderer_reverse_thrusters.zip)
 
 
 
@@ -292,6 +301,34 @@ Adds reverse versions of Wanderer thrusters to wherever the original thrusters a
 
 
 Idea by Ubrief. Artwork and stats by Ubrief and k.AI.
+
+
+
+## Releases
+
+
+
+<details>
+
+<summary> v1.0.1 </summary>
+
+
+
+Shiny new download button.
+
+</details>
+
+
+
+<details>
+
+<summary> v1.0.0 </summary>
+
+
+
+First release.
+
+</details>
 
 </blockquote>
 </details>
