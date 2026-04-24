@@ -2,14 +2,9 @@
 
 This repository contains the plugins I have made for the amazing game [Endless Sky](https://endless-sky.github.io/).
 
-To install a plugin, download its zip file, and place it in either the resource or configuration directory for your operating system:
-
-- Linux: `/usr/share/games/endless-sky/plugins/` or `~/.local/share/endless-sky/plugins/`
-- Windows: `plugins\` (in the same folder as the Endless Sky executable) or `%APPDATA%\endless-sky\plugins\`
-- macOS: `Contents/Resources/plugins/` (within the application bundle) or `~/Library/Application Support/endless-sky/plugins/`
-
 <details>
 <summary> How to install plugins: </summary>
+
 *Copied from Luna (RestingImmortal)'s guide in the Discord server.*
 
 Windows:
