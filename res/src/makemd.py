@@ -87,6 +87,7 @@ def make_readme(templatefile, pathtoplugins, indexfile, pluginurl, current_repo)
 	# %assetfile%      release zip name of the plugin, special chars and spaces are replaced by dots
 	# %assetfullpath%  url to the plugin release
 	# %size%           plugin size in mb or kb, or 'N/A' if no release found
+	# %convertedsize%  plugin size, but converted to shields.io format
 	# %lastmodified%   last modified date of the plugin release zip file, or 'N/A' if no release found
 	# %pluginurl%      url path to the plugin folder
 	# %pluginnameurl%  plugin folder name, with space replaced by %20
@@ -233,12 +234,15 @@ def make_readme(templatefile, pathtoplugins, indexfile, pluginurl, current_repo)
 		# gets the file size of the assetfile in kb or mb, this is the %size% (assetsize) variable
 			assetsize = int(response.headers['Content-Length']) / 1024
 			form = ' kb'
+			convertedform = '_kb'
 			if assetsize > 1024 :
 				assetsize = assetsize / 1024
 				form = ' mb'
+				convertedform = '_mb'
 		except:
 			modif = 'N/A'
 			form = ''
+			convertedform = ''
 			assetsize = 'N/A'
 		# gets the %icon% (icon) variable, as an html img
 		if os.path.isfile(pathtoplugins + entry + '/icon.png'):
@@ -253,7 +257,9 @@ def make_readme(templatefile, pathtoplugins, indexfile, pluginurl, current_repo)
 		pa_template = pa_template.replace('%assetfile%', withdots + '.zip')
 		if assetsize != 'N/A':
 			pa_template = pa_template.replace('%size%', str(round(assetsize, 2)) + form)
+			pa_template = pa_template.replace('%convertedsize%', str(round(assetsize, 2)) + convertedform)
 		else:
+			pa_template = pa_template.replace('%size%', assetsize)
 			pa_template = pa_template.replace('%size%', assetsize)
 		pa_template = pa_template.replace('%lastmodified%', modif)
 		pa_template = pa_template.replace('%pluginurl%', pluginurl)
