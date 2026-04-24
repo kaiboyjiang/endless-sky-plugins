@@ -8,6 +8,33 @@ To install a plugin, download its zip file, and place it in either the resource 
 - Windows: `plugins\` (in the same folder as the Endless Sky executable) or `%APPDATA%\endless-sky\plugins\`
 - macOS: `Contents/Resources/plugins/` (within the application bundle) or `~/Library/Application Support/endless-sky/plugins/`
 
+<details>
+<summary> How to install plugins: </summary>
+*Copied from Luna (RestingImmortal)'s guide in the Discord server.*
+
+Windows:
+- Download plugin
+- Open archive file (.zip, .rar, etc.)
+- Select the files and copy them to here:
+- `C:\Users\\<user>\AppData\Roaming\endless-sky\plugins\`
+- `%AppData%\endless-sky\plugins\` works as well
+- If you had ES open, exit the game and start it up again.
+
+Linux:
+- Download plugin
+- Open archive file (.zip, .rar, etc.)
+- Select the files and copy them to here:
+- `~/.local/share/endless-sky/plugins/`
+- If you had ES open, exit the game and start it up again.
+
+macOS:
+- Download plugin
+- Open archive file (.zip, .rar, etc.)
+- Select the files and copy them to here:
+- `~/Library/ApplicationSupport/endless-sky/plugins`
+- If you had ES open, exit the game and start it up again.
+</details>
+
 Any bugs or questions? Ping me in the [official Discord server](https://discord.gg/ZeuASSx).
 
 A big thank you to Zuckung for this plugin repository template (get it [here](https://github.com/zuckung/endless-sky-plugins?tab=readme-ov-file#other-things)) and Nova1422 for helping me set it up.
