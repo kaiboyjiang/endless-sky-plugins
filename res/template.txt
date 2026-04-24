@@ -10,8 +10,6 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 
 %plugin template below this line%
 
----
-
 ### %name%
 
 %icon%
