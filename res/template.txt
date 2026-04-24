@@ -1,3 +1,7 @@
+# Kai's Endless Sky Plugins
+
+This repository contains the plugins I have made for the amazing game [Endless Sky](https://endless-sky.github.io/).
+
 Any bugs or questions? Ping me on the [official Discord server](https://discord.gg/ZeuASSx).
 
 A big thank you to Zuckung for this plugin repository template (get it [here](https://github.com/zuckung/endless-sky-plugins?tab=readme-ov-file#other-things)) and Nova1422 for helping me set it up.
@@ -14,7 +18,7 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 
 %icon%
 
-[![Download](https://img.shields.io/badge/Download_v%version%_|_%convertedsize%_|_%fancylastmodified%-rgb(0,40,150)?style=for-the-badge)](%assetfullpath%%assetfile%)![%size%](https://img.shields.io/badge/%convertedsize%-rgb(0,80,140)?style=for-the-badge)![%lastmodified%](https://img.shields.io/badge/%fancylastmodified%-rgb(0,115,125)?style=for-the-badge)[![Versions](https://img.shields.io/badge/Versions-rgb(0,140,100)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases?q=%name%&expanded=true)[![Data](https://img.shields.io/badge/Data-rgb(0,160,60)?style=for-the-badge)](%pluginurl%%pluginnameurl%/)%imagemd%<br>
+[![Download](https://img.shields.io/badge/Download_v%version%-rgb(0,40,150)?style=for-the-badge)](%assetfullpath%%assetfile%)![%size%](https://img.shields.io/badge/%convertedsize%-rgb(0,80,140)?style=for-the-badge)![%lastmodified%](https://img.shields.io/badge/%fancylastmodified%-rgb(0,115,125)?style=for-the-badge)[![Versions](https://img.shields.io/badge/Versions-rgb(0,140,100)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases?q=%name%&expanded=true)[![Data](https://img.shields.io/badge/Data-rgb(0,160,60)?style=for-the-badge)](%pluginurl%%pluginnameurl%/)%imagemd%<br>
 <br>
 %description%
 <details>
