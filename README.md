@@ -39,8 +39,6 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 
 
 
----
-
 ### KGS
 
 <img src="myplugins/KGS/icon.png" height="100">
@@ -594,8 +592,6 @@ Made by kaiboy (aka k.AI). All sprites kitbashed by k.AI with the GIMP.
 <br>
 
 
----
-
 ### buyable_faesmar
 
 <img src="myplugins/buyable_faesmar/icon.png" height="100">
@@ -671,8 +667,6 @@ Adds the Faes'mar to all Remnant shipyards.
 <br>
 
 
----
-
 ### buyable_unfettered_weapons
 
 <img src="myplugins/buyable_unfettered_weapons/icon.png" height="100">
@@ -735,8 +729,6 @@ Adds the Tripulse Shredder, Ionic Blaster Prototype, and Ionic Turret Prototype 
 
 <br>
 
-
----
 
 ### buyable_wanderer_ships
 
@@ -806,8 +798,6 @@ Missions partially copied from Rumskib.
 
 <br>
 
-
----
 
 ### wanderer_reverse_thrusters
 
