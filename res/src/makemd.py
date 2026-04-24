@@ -249,8 +249,8 @@ def make_readme(templatefile, pathtoplugins, indexfile, pluginurl, current_repo)
 			convertedform = ''
 			assetsize = 'N/A'
 		# gets the %icon% (icon) variable, as an html img
-		if os.path.isfile(pathtoplugins + entry + '/icon.png'):
-			icon = '<img src="' + pathtoplugins + entry + '/icon.png" height="100">'
+		if os.path.isfile(pathtoplugins + entry + '/icon@2x.png'):
+			icon = '<img src="' + pathtoplugins + entry + '/icon@2x.png" height="200">'
 		else:
 			icon = ''
 		# create imagemd and return link, this is the %imagemd% (imagemdlink) variable
