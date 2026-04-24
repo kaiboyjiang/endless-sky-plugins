@@ -58,6 +58,7 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 <summary> README.md </summary>
 
 <blockquote>
+
 # Kai's GIMPed Stuff
 
 
@@ -612,6 +613,7 @@ Made by kaiboy (aka k.AI). All sprites kitbashed by k.AI with the GIMP.
 <summary> README.md </summary>
 
 <blockquote>
+
 # Buyable Faes'mar
 
 
@@ -688,6 +690,7 @@ Adds the Faes'mar to all Remnant shipyards.
 <summary> README.md </summary>
 
 <blockquote>
+
 # Buyable Unfettered Weapons
 
 
@@ -752,6 +755,7 @@ Adds the Tripulse Shredder, Ionic Blaster Prototype, and Ionic Turret Prototype 
 <summary> README.md </summary>
 
 <blockquote>
+
 # Buyable Wanderer Ships
 
 
@@ -822,6 +826,7 @@ Missions partially copied from Rumskib.
 <summary> README.md </summary>
 
 <blockquote>
+
 # Wanderer Reverse Thrusters
 
 
