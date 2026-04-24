@@ -14,7 +14,7 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 
 %icon%
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](%assetfullpath%%assetfile%) ![%size%](https://img.shields.io/badge/%convertedsize%-orange?style=for-the-badge) ![%lastmodified%](https://img.shields.io/badge/%fancylastmodified%-green?style=for-the-badge) | [view versions](https://github.com/kaiboyjiang/releases?q=%name%&expanded=true) | [view files](%pluginurl%%pluginnameurl%/) %imagemd%<br>
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](%assetfullpath%%assetfile%) ![%size%](https://img.shields.io/badge/%convertedsize%-orange?style=for-the-badge) ![%lastmodified%](https://img.shields.io/badge/%fancylastmodified%-green?style=for-the-badge) | [view versions](https://github.com/kaiboyjiang/endless-sky-plugins/releases?q=%name%&expanded=true) | [view files](%pluginurl%%pluginnameurl%/) %imagemd%<br>
 <br>
 %description%
 <details>
