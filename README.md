@@ -34,7 +34,7 @@ macOS:
 
 Any bugs or questions? Ping me in the [official Discord server](https://discord.gg/ZeuASSx).
 
-A big thank you to Zuckung for this plugin repository template (get it [here](https://github.com/zuckung/endless-sky-plugins?tab=readme-ov-file#other-things)) and Nova1422 (another [plugin author](https://github.com/Nova1422/plugins)) for helping me set it up.
+A big thank you to Zuckung for this plugin repository template (get it [here](https://github.com/zuckung/endless-sky-plugins?tab=readme-ov-file#other-things)) and Nova1422 (another [plugin](https://github.com/Nova1422/plugins) author) for helping me set it up.
 
 ## Latest News:
 <table>
