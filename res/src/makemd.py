@@ -231,7 +231,8 @@ def make_readme(templatefile, pathtoplugins, indexfile, pluginurl, current_repo)
 				assetfiles = assetfiles.replace('1.0.0', '1.0')
 				response = requests.head(assetfiles + withdots + '.zip', allow_redirects=True)
 			modif = response.headers['Last-Modified']
-			fancymodif = str(int(modif[8:10])) + '_' + months[int(modif[5:7]) - 1] + '_' + modif[0:4]
+			# fancymodif = str(int(modif[8:10])) + '_' + months[int(modif[5:7]) - 1] + '_' + modif[0:4]
+			fancymodif = modif
 			datetime_object = datetime.strptime(modif, '%a, %d %b %Y %H:%M:%S %Z')
 			modif = str(datetime_object.date())
 		# gets the file size of the assetfile in kb or mb, this is the %size% (assetsize) variable
