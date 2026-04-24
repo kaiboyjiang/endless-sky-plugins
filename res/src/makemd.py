@@ -41,13 +41,13 @@ def make_imagemd(name, current_repo):
 					width, height = im.size
 				if width > 200 or height > 200:
 					if width > height:
-						pic = '		<td><a href="https://github.com/' + current_repo + '/blob/main/' + file \
+						pic = '		<td style="text-align: center; vertical-align: middle;"><a href="https://github.com/' + current_repo + '/blob/main/' + file \
 						+ '"><img src="https://raw.githubusercontent.com/' + current_repo + '/refs/heads/main/' + file + '" width="200"></a><br>\n'
 					else:
-						pic = '		<td><a href="https://github.com/' + current_repo + '/blob/main/' + file \
+						pic = '		<td style="text-align: center; vertical-align: middle;"><a href="https://github.com/' + current_repo + '/blob/main/' + file \
 						+ '"><img src="https://raw.githubusercontent.com/' + current_repo + '/refs/heads/main/' + file + '" height="200"></a><br>\n'
 				else:
-					pic = '		<td><a href="https://github.com/' + current_repo + '/blob/main/' + file \
+					pic = '		<td style="text-align: center; vertical-align: middle;"><a href="https://github.com/' + current_repo + '/blob/main/' + file \
 					+ '"><img src="https://raw.githubusercontent.com/' + current_repo + '/refs/heads/main/' + file + '" width="' + str(width) \
 					+ '" height="' + str(height) + '"></a><br>\n'	
 				pic2 = '		' + last + ' [' + str (width) + 'x' + str(height) + ']</td>\n'
