@@ -50,7 +50,7 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 
 %icon%
 
-[![Download](https://img.shields.io/badge/Download_v%version%-rgb(0,40,150)?style=for-the-badge)](%assetfullpath%%assetfile%) [![Versions](https://img.shields.io/badge/Versions-rgb(0,140,100)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases?q=%name%&expanded=true) [![Data](https://img.shields.io/badge/Data-rgb(0,160,60)?style=for-the-badge)](%pluginurl%%pluginnameurl%/) %imagemd%<br>
+[![Download](https://img.shields.io/badge/Download_v%version%-rgb(20,40,90)?style=for-the-badge)](%assetfullpath%%assetfile%) [![Versions](https://img.shields.io/badge/Versions-rgb(65,90,130)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases?q=%name%&expanded=true) [![Data](https://img.shields.io/badge/Data-rgb(120,140,170)?style=for-the-badge)](%pluginurl%%pluginnameurl%/) %imagemd%<br>
 <br>
 %description%
 <details>
