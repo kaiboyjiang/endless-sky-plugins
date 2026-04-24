@@ -22,7 +22,7 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 <details>
 <summary> README.md </summary>
 
-%readme%
+<blockquote> %readme% </blockquote>
 </details>
 %screenshots%
 <br>
