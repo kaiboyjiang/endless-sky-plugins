@@ -1,4 +1,4 @@
-Graphical assets for the buyable_wanderer_shipsplugin:<br>
+Graphical assets for the buyable_wanderer_ships plugin:<br>
 <br>
 <table>
 	<tr valign="bottom">

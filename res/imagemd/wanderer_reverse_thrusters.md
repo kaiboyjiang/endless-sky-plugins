@@ -1,4 +1,4 @@
-Graphical assets for the wanderer_reverse_thrustersplugin:<br>
+Graphical assets for the wanderer_reverse_thrusters plugin:<br>
 <br>
 <table>
 	<tr valign="bottom">

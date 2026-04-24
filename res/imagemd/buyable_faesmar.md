@@ -1,4 +1,4 @@
-Graphical assets for the buyable_faesmarplugin:<br>
+Graphical assets for the buyable_faesmar plugin:<br>
 <br>
 <table>
 	<tr valign="bottom">

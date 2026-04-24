@@ -1,4 +1,4 @@
-Graphical assets for the buyable_unfettered_weaponsplugin:<br>
+Graphical assets for the buyable_unfettered_weapons plugin:<br>
 <br>
 <table>
 	<tr valign="bottom">

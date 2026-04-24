@@ -1,4 +1,4 @@
-Graphical assets for the KGSplugin:<br>
+Graphical assets for the KGS plugin:<br>
 <br>
 <table>
 	<tr valign="bottom">
