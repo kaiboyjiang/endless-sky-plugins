@@ -16,7 +16,7 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 
 %icon%
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](%assetfullpath%%assetfile%) | %size% | %lastmodified% | [view files](%pluginurl%%pluginnameurl%/) %imagemd%<br>
+[![Download](https://img.shields.io/badge/Download-blue?style=flat)](%assetfullpath%%assetfile%) | %size% | %lastmodified% | [view files](%pluginurl%%pluginnameurl%/) %imagemd%<br>
 <br>
 %description%
 <details>
