@@ -75,7 +75,7 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 
 ### KGS
 
-![23.91 mb](https://img.shields.io/badge/23.91_mb-rgb(0,80,140)?style=for-the-badge) ![2026-04-23](https://img.shields.io/badge/23_Apr_2026-rgb(0,115,125)?style=for-the-badge) ![Download count](https://img.shields.io/github/downloads/kaiboyjiang/endless-sky-plugins/KGS.zip?displayAssetName=false&style=for-the-badge&label=Downloads&color=rgb(135%2C158%2C191))
+![23.91 mb](https://img.shields.io/badge/23.91_mb-rgb(35,25,80)?style=for-the-badge) ![2026-04-23](https://img.shields.io/badge/23_Apr_2026-rgb(60,100,220)?style=for-the-badge) ![Download count](https://img.shields.io/github/downloads/kaiboyjiang/endless-sky-plugins/KGS.zip?displayAssetName=false&style=for-the-badge&label=Downloads&color=rgb(130,230,250))
 
 <img src="myplugins/KGS/icon@2x.png" height="200">
 
@@ -630,7 +630,7 @@ Made by kaiboy (aka k.AI). All sprites kitbashed by k.AI with the GIMP.
 
 ### buyable_faesmar
 
-![145.7 kb](https://img.shields.io/badge/145.7_kb-rgb(0,80,140)?style=for-the-badge) ![2026-04-23](https://img.shields.io/badge/23_Apr_2026-rgb(0,115,125)?style=for-the-badge) ![Download count](https://img.shields.io/github/downloads/kaiboyjiang/endless-sky-plugins/buyable_faesmar.zip?displayAssetName=false&style=for-the-badge&label=Downloads&color=rgb(135%2C158%2C191))
+![145.7 kb](https://img.shields.io/badge/145.7_kb-rgb(35,25,80)?style=for-the-badge) ![2026-04-23](https://img.shields.io/badge/23_Apr_2026-rgb(60,100,220)?style=for-the-badge) ![Download count](https://img.shields.io/github/downloads/kaiboyjiang/endless-sky-plugins/buyable_faesmar.zip?displayAssetName=false&style=for-the-badge&label=Downloads&color=rgb(130,230,250))
 
 <img src="myplugins/buyable_faesmar/icon@2x.png" height="200">
 
@@ -707,7 +707,7 @@ Adds the Faes'mar to all Remnant shipyards.
 
 ### buyable_unfettered_weapons
 
-![73.67 kb](https://img.shields.io/badge/73.67_kb-rgb(0,80,140)?style=for-the-badge) ![2026-04-23](https://img.shields.io/badge/23_Apr_2026-rgb(0,115,125)?style=for-the-badge) ![Download count](https://img.shields.io/github/downloads/kaiboyjiang/endless-sky-plugins/buyable_unfettered_weapons.zip?displayAssetName=false&style=for-the-badge&label=Downloads&color=rgb(135%2C158%2C191))
+![73.67 kb](https://img.shields.io/badge/73.67_kb-rgb(35,25,80)?style=for-the-badge) ![2026-04-23](https://img.shields.io/badge/23_Apr_2026-rgb(60,100,220)?style=for-the-badge) ![Download count](https://img.shields.io/github/downloads/kaiboyjiang/endless-sky-plugins/buyable_unfettered_weapons.zip?displayAssetName=false&style=for-the-badge&label=Downloads&color=rgb(130,230,250))
 
 <img src="myplugins/buyable_unfettered_weapons/icon@2x.png" height="200">
 
@@ -772,7 +772,7 @@ Adds the Tripulse Shredder, Ionic Blaster Prototype, and Ionic Turret Prototype 
 
 ### buyable_wanderer_ships
 
-![76.99 kb](https://img.shields.io/badge/76.99_kb-rgb(0,80,140)?style=for-the-badge) ![2026-04-23](https://img.shields.io/badge/23_Apr_2026-rgb(0,115,125)?style=for-the-badge) ![Download count](https://img.shields.io/github/downloads/kaiboyjiang/endless-sky-plugins/buyable_wanderer_ships.zip?displayAssetName=false&style=for-the-badge&label=Downloads&color=rgb(135%2C158%2C191))
+![76.99 kb](https://img.shields.io/badge/76.99_kb-rgb(35,25,80)?style=for-the-badge) ![2026-04-23](https://img.shields.io/badge/23_Apr_2026-rgb(60,100,220)?style=for-the-badge) ![Download count](https://img.shields.io/github/downloads/kaiboyjiang/endless-sky-plugins/buyable_wanderer_ships.zip?displayAssetName=false&style=for-the-badge&label=Downloads&color=rgb(130,230,250))
 
 <img src="myplugins/buyable_wanderer_ships/icon@2x.png" height="200">
 
@@ -843,7 +843,7 @@ Missions partially copied from Rumskib.
 
 ### wanderer_reverse_thrusters
 
-![573.33 kb](https://img.shields.io/badge/573.33_kb-rgb(0,80,140)?style=for-the-badge) ![2026-04-23](https://img.shields.io/badge/23_Apr_2026-rgb(0,115,125)?style=for-the-badge) ![Download count](https://img.shields.io/github/downloads/kaiboyjiang/endless-sky-plugins/wanderer_reverse_thrusters.zip?displayAssetName=false&style=for-the-badge&label=Downloads&color=rgb(135%2C158%2C191))
+![573.33 kb](https://img.shields.io/badge/573.33_kb-rgb(35,25,80)?style=for-the-badge) ![2026-04-23](https://img.shields.io/badge/23_Apr_2026-rgb(60,100,220)?style=for-the-badge) ![Download count](https://img.shields.io/github/downloads/kaiboyjiang/endless-sky-plugins/wanderer_reverse_thrusters.zip?displayAssetName=false&style=for-the-badge&label=Downloads&color=rgb(130,230,250))
 
 <img src="myplugins/wanderer_reverse_thrusters/icon@2x.png" height="200">
 
