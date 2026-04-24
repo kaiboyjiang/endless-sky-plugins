@@ -14,7 +14,7 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 
 %icon%
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](%assetfullpath%%assetfile%)![%size%](https://img.shields.io/badge/%convertedsize%-cyan?style=for-the-badge)![%lastmodified%](https://img.shields.io/badge/%fancylastmodified%-green?style=for-the-badge)[![Versions](https://img.shields.io/badge/Versions-yellow?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases?q=%name%&expanded=true)[![Data](https://img.shields.io/badge/Data-orange?style=for-the-badge)](%pluginurl%%pluginnameurl%/)%imagemd%<br>
+[![Download](https://img.shields.io/badge/Download-rgb(0,0,255)?style=for-the-badge)](%assetfullpath%%assetfile%)![%size%](https://img.shields.io/badge/%convertedsize%-rgb(0,51,204)?style=for-the-badge)![%lastmodified%](https://img.shields.io/badge/%fancylastmodified%-rgb(0,102,153)?style=for-the-badge)[![Versions](https://img.shields.io/badge/Versions-rgb(0,153,102)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases?q=%name%&expanded=true)[![Data](https://img.shields.io/badge/Data-rgb(0,204,51)?style=for-the-badge)](%pluginurl%%pluginnameurl%/)%imagemd%<br>
 <br>
 %description%
 <details>
