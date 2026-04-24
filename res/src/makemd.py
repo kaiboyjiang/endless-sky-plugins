@@ -264,7 +264,7 @@ def make_readme(templatefile, pathtoplugins, indexfile, pluginurl, current_repo)
 			pa_template = pa_template.replace('%convertedsize%', str(round(assetsize, 2)) + convertedform)
 		else:
 			pa_template = pa_template.replace('%size%', assetsize)
-			pa_template = pa_template.replace('%size%', assetsize)
+			pa_template = pa_template.replace('%convertedsize%', assetsize)
 		pa_template = pa_template.replace('%lastmodified%', modif)
 		pa_template = pa_template.replace('%fancylastmodified%', fancymodif)
 		pa_template = pa_template.replace('%pluginurl%', pluginurl)
