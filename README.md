@@ -45,7 +45,7 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 
 <img src="myplugins/KGS/icon.png" height="100">
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v2.0.1-KGS/KGS.zip) | ![N/A](https://img.shields.io/badge/N/A-blue?style=for-the-badge) | N/A | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/KGS/) <a href="res/imagemd/KGS.md">view images</a> [408]<br>
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v2.0.1-KGS/KGS.zip) | ![23.91 mb](https://img.shields.io/badge/23.91_mb-blue?style=for-the-badge) | Thu, 23 Apr 2026 19:01:02 GMT | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/KGS/) <a href="res/imagemd/KGS.md">view images</a> [408]<br>
 <br>
 >A vanilla+ content expansion plugin.
 >
@@ -600,7 +600,7 @@ Made by kaiboy (aka k.AI). All sprites kitbashed by k.AI with the GIMP.
 
 <img src="myplugins/buyable_faesmar/icon.png" height="100">
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.1.1-buyable_faesmar/buyable_faesmar.zip) | ![N/A](https://img.shields.io/badge/N/A-blue?style=for-the-badge) | N/A | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_faesmar/) <a href="res/imagemd/buyable_faesmar.md">view images</a> [2]<br>
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.1.1-buyable_faesmar/buyable_faesmar.zip) | ![145.7 kb](https://img.shields.io/badge/145.7_kb-blue?style=for-the-badge) | Thu, 23 Apr 2026 13:23:40 GMT | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_faesmar/) <a href="res/imagemd/buyable_faesmar.md">view images</a> [2]<br>
 <br>
 >Adds the Faes'mar to all Remnant shipyards.
 >
@@ -677,7 +677,7 @@ Adds the Faes'mar to all Remnant shipyards.
 
 <img src="myplugins/buyable_unfettered_weapons/icon.png" height="100">
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.1.0-buyable_unfettered_weapons/buyable_unfettered_weapons.zip) | ![N/A](https://img.shields.io/badge/N/A-blue?style=for-the-badge) | N/A | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_unfettered_weapons/) <a href="res/imagemd/buyable_unfettered_weapons.md">view images</a> [2]<br>
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.1.0-buyable_unfettered_weapons/buyable_unfettered_weapons.zip) | ![73.67 kb](https://img.shields.io/badge/73.67_kb-blue?style=for-the-badge) | Thu, 23 Apr 2026 13:32:07 GMT | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_unfettered_weapons/) <a href="res/imagemd/buyable_unfettered_weapons.md">view images</a> [2]<br>
 <br>
 >Adds the Tripulse Shredder, Ionic Blaster Prototype, and Ionic Turret Prototype to Darkcloak in the Wah Yoot system.
 >
@@ -742,7 +742,7 @@ Adds the Tripulse Shredder, Ionic Blaster Prototype, and Ionic Turret Prototype 
 
 <img src="myplugins/buyable_wanderer_ships/icon.png" height="100">
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.1.0-buyable_wanderer_ships/buyable_wanderer_ships.zip) | ![N/A](https://img.shields.io/badge/N/A-blue?style=for-the-badge) | N/A | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_wanderer_ships/) <a href="res/imagemd/buyable_wanderer_ships.md">view images</a> [2]<br>
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.1.0-buyable_wanderer_ships/buyable_wanderer_ships.zip) | ![76.99 kb](https://img.shields.io/badge/76.99_kb-blue?style=for-the-badge) | Thu, 23 Apr 2026 13:45:33 GMT | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_wanderer_ships/) <a href="res/imagemd/buyable_wanderer_ships.md">view images</a> [2]<br>
 <br>
 >Adds the Cool Breeze and Winter Gale to all Wanderer shipyards with the Strong Wind, some time after the completion of the Wanderer campaign.
 >
@@ -813,7 +813,7 @@ Missions partially copied from Rumskib.
 
 <img src="myplugins/wanderer_reverse_thrusters/icon.png" height="100">
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.1-wanderer_reverse_thrusters/wanderer_reverse_thrusters.zip) | ![N/A](https://img.shields.io/badge/N/A-blue?style=for-the-badge) | N/A | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/wanderer_reverse_thrusters/) <a href="res/imagemd/wanderer_reverse_thrusters.md">view images</a> [10]<br>
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.1-wanderer_reverse_thrusters/wanderer_reverse_thrusters.zip) | ![573.33 kb](https://img.shields.io/badge/573.33_kb-blue?style=for-the-badge) | Thu, 23 Apr 2026 13:50:59 GMT | [view files](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/wanderer_reverse_thrusters/) <a href="res/imagemd/wanderer_reverse_thrusters.md">view images</a> [10]<br>
 <br>
 >Adds Wanderer reverse thrusters.
 >
