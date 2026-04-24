@@ -2,7 +2,13 @@
 
 This repository contains the plugins I have made for the amazing game [Endless Sky](https://endless-sky.github.io/).
 
-Any bugs or questions? Ping me on the [official Discord server](https://discord.gg/ZeuASSx).
+To install a plugin, download its zip file, and place it in either the resource or configuration directory for your operating system:
+
+- Linux: `/usr/share/games/endless-sky/plugins/` or `~/.local/share/endless-sky/plugins/`
+- Windows: `plugins\` (in the same folder as the Endless Sky executable) or `%APPDATA%\endless-sky\plugins\`
+- macOS: `Contents/Resources/plugins/` (within the application bundle) or `~/Library/Application Support/endless-sky/plugins/`
+
+Any bugs or questions? Ping me in the [official Discord server](https://discord.gg/ZeuASSx).
 
 A big thank you to Zuckung for this plugin repository template (get it [here](https://github.com/zuckung/endless-sky-plugins?tab=readme-ov-file#other-things)) and Nova1422 for helping me set it up.
 
