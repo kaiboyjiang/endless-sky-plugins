@@ -80,22 +80,23 @@ def make_imagemd(name, current_repo):
 
 def make_readme(templatefile, pathtoplugins, indexfile, pluginurl, current_repo):
 	# useable variables inside template.txt:
-	# %news%           html table of the news
-	# %pluginlist%     html table of anchor links to the plugins
-	# %name%           the plugin name
-	# %icon%           html img with plugin icon url
-	# %assetfile%      release zip name of the plugin, special chars and spaces are replaced by dots
-	# %assetfullpath%  url to the plugin release
-	# %size%           plugin size in mb or kb, or 'N/A' if no release found
-	# %convertedsize%  plugin size, but converted to shields.io format
-	# %lastmodified%   last modified date of the plugin release zip file, or 'N/A' if no release found
-	# %pluginurl%      url path to the plugin folder
-	# %pluginnameurl%  plugin folder name, with space replaced by %20
-	# %imagemd%        html link to a seperate plugin md file with all images of that plugin
-	# %description%    content of the plugin's' plugin.txt or about.txt, or 'N/A' if none found
-	# %readme%         content of the plugin's' README.md or 'N/A' if none found
-	# %screenshots%    html table of the plugin screenshots from the screenshot folder, or '' if none found
-	# %version%        version number
+	# %news%              html table of the news
+	# %pluginlist%        html table of anchor links to the plugins
+	# %name%              the plugin name
+	# %icon%              html img with plugin icon url
+	# %assetfile%         release zip name of the plugin, special chars and spaces are replaced by dots
+	# %assetfullpath%     url to the plugin release
+	# %size%              plugin size in mb or kb, or 'N/A' if no release found
+	# %convertedsize%     plugin size, but converted to shields.io format
+	# %lastmodified%      last modified date of the plugin release zip file, or 'N/A' if no release found
+	# %fancylastmodified% last modified date of the plugin, but fancy and with shields.io support
+	# %pluginurl%         url path to the plugin folder
+	# %pluginnameurl%     plugin folder name, with space replaced by %20
+	# %imagemd%           html link to a seperate plugin md file with all images of that plugin
+	# %description%       content of the plugin's' plugin.txt or about.txt, or 'N/A' if none found
+	# %readme%            content of the plugin's' README.md or 'N/A' if none found
+	# %screenshots%       html table of the plugin screenshots from the screenshot folder, or '' if none found
+	# %version%           version number
 
 	# read templates
 	with open(templatefile, 'r') as file1:
@@ -122,6 +123,7 @@ def make_readme(templatefile, pathtoplugins, indexfile, pluginurl, current_repo)
 	amount = len(entries)
 	column = amount//3
 	remainder = amount%3
+	months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 	index = 0
 	for entry in entries:
 		index += 1
@@ -229,6 +231,7 @@ def make_readme(templatefile, pathtoplugins, indexfile, pluginurl, current_repo)
 				assetfiles = assetfiles.replace('1.0.0', '1.0')
 				response = requests.head(assetfiles + withdots + '.zip', allow_redirects=True)
 			modif = response.headers['Last-Modified']
+			fancymodif = str(int(modif[8:10])) + '_' + months[int(modif[5:7])] + '_' + modif[0:4]
 			datetime_object = datetime.strptime(modif, '%a, %d %b %Y %H:%M:%S %Z')
 			modif = str(datetime_object.date())
 		# gets the file size of the assetfile in kb or mb, this is the %size% (assetsize) variable
@@ -262,6 +265,7 @@ def make_readme(templatefile, pathtoplugins, indexfile, pluginurl, current_repo)
 			pa_template = pa_template.replace('%size%', assetsize)
 			pa_template = pa_template.replace('%size%', assetsize)
 		pa_template = pa_template.replace('%lastmodified%', modif)
+		pa_template = pa_template.replace('%fancylastmodified%', fancymodif)
 		pa_template = pa_template.replace('%pluginurl%', pluginurl)
 		pa_template = pa_template.replace('%pluginnameurl%', forweb)
 		pa_template = pa_template.replace('%imagemd%', imagemdlink)
