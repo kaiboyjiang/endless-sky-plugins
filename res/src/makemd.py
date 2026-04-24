@@ -33,7 +33,7 @@ def make_imagemd(name, current_repo):
 			os.mkdir('res/imagemd/')
 		with open('res/imagemd/' + name + '.md', 'w') as target:
 			pos = 0
-			target.writelines('graphic files for the plugin: ' + name + '<br>\n<br>\n')
+			target.writelines('Graphical assets for the ' + name + 'plugin:<br>\n<br>\n')
 			target.writelines('<table>\n')
 			for file in graphicFiles:
 				last = file.split('/')[len(file.split('/')) - 1]
