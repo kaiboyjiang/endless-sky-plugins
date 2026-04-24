@@ -79,7 +79,7 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 
 <img src="myplugins/KGS/icon@2x.png" height="200">
 
-[![Download](https://img.shields.io/badge/Download_v2.0.1-rgb(0,40,150)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v2.0.1-KGS/KGS.zip) [![Versions](https://img.shields.io/badge/Versions-rgb(0,140,100)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases?q=KGS&expanded=true) [![Data](https://img.shields.io/badge/Data-rgb(0,160,60)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/KGS/) <a href="res/imagemd/KGS.md">![Assets](https://img.shields.io/badge/Assets_[408]-rgb(20,130,20)?style=for-the-badge)</a><br>
+[![Download](https://img.shields.io/badge/Download_v2.0.1-rgb(20,40,90)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v2.0.1-KGS/KGS.zip) [![Versions](https://img.shields.io/badge/Versions-rgb(65,90,130)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases?q=KGS&expanded=true) [![Data](https://img.shields.io/badge/Data-rgb(120,140,170)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/KGS/) <a href="res/imagemd/KGS.md">![Assets](https://img.shields.io/badge/Assets_[408]-rgb(185,200,215)?style=for-the-badge)</a><br>
 <br>
 >A vanilla+ content expansion plugin.
 >
@@ -634,7 +634,7 @@ Made by kaiboy (aka k.AI). All sprites kitbashed by k.AI with the GIMP.
 
 <img src="myplugins/buyable_faesmar/icon@2x.png" height="200">
 
-[![Download](https://img.shields.io/badge/Download_v1.1.1-rgb(0,40,150)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.1.1-buyable_faesmar/buyable_faesmar.zip) [![Versions](https://img.shields.io/badge/Versions-rgb(0,140,100)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases?q=buyable_faesmar&expanded=true) [![Data](https://img.shields.io/badge/Data-rgb(0,160,60)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_faesmar/) <a href="res/imagemd/buyable_faesmar.md">![Assets](https://img.shields.io/badge/Assets_[2]-rgb(20,130,20)?style=for-the-badge)</a><br>
+[![Download](https://img.shields.io/badge/Download_v1.1.1-rgb(20,40,90)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.1.1-buyable_faesmar/buyable_faesmar.zip) [![Versions](https://img.shields.io/badge/Versions-rgb(65,90,130)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases?q=buyable_faesmar&expanded=true) [![Data](https://img.shields.io/badge/Data-rgb(120,140,170)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_faesmar/) <a href="res/imagemd/buyable_faesmar.md">![Assets](https://img.shields.io/badge/Assets_[2]-rgb(185,200,215)?style=for-the-badge)</a><br>
 <br>
 >Adds the Faes'mar to all Remnant shipyards.
 >
@@ -711,7 +711,7 @@ Adds the Faes'mar to all Remnant shipyards.
 
 <img src="myplugins/buyable_unfettered_weapons/icon@2x.png" height="200">
 
-[![Download](https://img.shields.io/badge/Download_v1.1.0-rgb(0,40,150)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.1.0-buyable_unfettered_weapons/buyable_unfettered_weapons.zip) [![Versions](https://img.shields.io/badge/Versions-rgb(0,140,100)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases?q=buyable_unfettered_weapons&expanded=true) [![Data](https://img.shields.io/badge/Data-rgb(0,160,60)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_unfettered_weapons/) <a href="res/imagemd/buyable_unfettered_weapons.md">![Assets](https://img.shields.io/badge/Assets_[2]-rgb(20,130,20)?style=for-the-badge)</a><br>
+[![Download](https://img.shields.io/badge/Download_v1.1.0-rgb(20,40,90)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.1.0-buyable_unfettered_weapons/buyable_unfettered_weapons.zip) [![Versions](https://img.shields.io/badge/Versions-rgb(65,90,130)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases?q=buyable_unfettered_weapons&expanded=true) [![Data](https://img.shields.io/badge/Data-rgb(120,140,170)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_unfettered_weapons/) <a href="res/imagemd/buyable_unfettered_weapons.md">![Assets](https://img.shields.io/badge/Assets_[2]-rgb(185,200,215)?style=for-the-badge)</a><br>
 <br>
 >Adds the Tripulse Shredder, Ionic Blaster Prototype, and Ionic Turret Prototype to Darkcloak in the Wah Yoot system.
 >
@@ -776,7 +776,7 @@ Adds the Tripulse Shredder, Ionic Blaster Prototype, and Ionic Turret Prototype 
 
 <img src="myplugins/buyable_wanderer_ships/icon@2x.png" height="200">
 
-[![Download](https://img.shields.io/badge/Download_v1.1.0-rgb(0,40,150)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.1.0-buyable_wanderer_ships/buyable_wanderer_ships.zip) [![Versions](https://img.shields.io/badge/Versions-rgb(0,140,100)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases?q=buyable_wanderer_ships&expanded=true) [![Data](https://img.shields.io/badge/Data-rgb(0,160,60)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_wanderer_ships/) <a href="res/imagemd/buyable_wanderer_ships.md">![Assets](https://img.shields.io/badge/Assets_[2]-rgb(20,130,20)?style=for-the-badge)</a><br>
+[![Download](https://img.shields.io/badge/Download_v1.1.0-rgb(20,40,90)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.1.0-buyable_wanderer_ships/buyable_wanderer_ships.zip) [![Versions](https://img.shields.io/badge/Versions-rgb(65,90,130)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases?q=buyable_wanderer_ships&expanded=true) [![Data](https://img.shields.io/badge/Data-rgb(120,140,170)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/buyable_wanderer_ships/) <a href="res/imagemd/buyable_wanderer_ships.md">![Assets](https://img.shields.io/badge/Assets_[2]-rgb(185,200,215)?style=for-the-badge)</a><br>
 <br>
 >Adds the Cool Breeze and Winter Gale to all Wanderer shipyards with the Strong Wind, some time after the completion of the Wanderer campaign.
 >
@@ -847,7 +847,7 @@ Missions partially copied from Rumskib.
 
 <img src="myplugins/wanderer_reverse_thrusters/icon@2x.png" height="200">
 
-[![Download](https://img.shields.io/badge/Download_v1.0.1-rgb(0,40,150)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.1-wanderer_reverse_thrusters/wanderer_reverse_thrusters.zip) [![Versions](https://img.shields.io/badge/Versions-rgb(0,140,100)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases?q=wanderer_reverse_thrusters&expanded=true) [![Data](https://img.shields.io/badge/Data-rgb(0,160,60)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/wanderer_reverse_thrusters/) <a href="res/imagemd/wanderer_reverse_thrusters.md">![Assets](https://img.shields.io/badge/Assets_[10]-rgb(20,130,20)?style=for-the-badge)</a><br>
+[![Download](https://img.shields.io/badge/Download_v1.0.1-rgb(20,40,90)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v1.0.1-wanderer_reverse_thrusters/wanderer_reverse_thrusters.zip) [![Versions](https://img.shields.io/badge/Versions-rgb(65,90,130)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases?q=wanderer_reverse_thrusters&expanded=true) [![Data](https://img.shields.io/badge/Data-rgb(120,140,170)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/wanderer_reverse_thrusters/) <a href="res/imagemd/wanderer_reverse_thrusters.md">![Assets](https://img.shields.io/badge/Assets_[10]-rgb(185,200,215)?style=for-the-badge)</a><br>
 <br>
 >Adds Wanderer reverse thrusters.
 >
