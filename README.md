@@ -1,6 +1,6 @@
 # Kai's Endless Sky Plugins
 
-[![Download count](https://img.shields.io/github/downloads/kaiboyjiang/endless-sky-plugins/total?style=for-the-badge&label=Downloads&color=rgb(0,165,175)&raw=true)](https://github.com/kaiboyjiang/endless-sky-plugins/releases)
+[![Download count](https://img.shields.io/github/downloads/kaiboyjiang/endless-sky-plugins/total.svg?style=for-the-badge&label=Downloads&color=rgb(0,165,175)&raw=true)](https://github.com/kaiboyjiang/endless-sky-plugins/releases)
 
 This repository contains the plugins I have made for the amazing game [Endless Sky](https://endless-sky.github.io/).
 
