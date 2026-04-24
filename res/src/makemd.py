@@ -71,7 +71,7 @@ def make_imagemd(name, current_repo):
 				target.writelines('		<td></td>\n')
 				target.writelines('	</tr>\n')
 			target.writelines('</table>\n')
-		link = '<a href="res/imagemd/' + name + '.md">![Assets](https://img.shields.io/badge/Assets_[' + str(pos) + ']-rgb(185,200,215)?style=for-the-badge)</a>'
+		link = '<a href="res/imagemd/' + name + '.md">![Assets](https://img.shields.io/badge/Assets-rgb(185,200,215)?style=for-the-badge)</a>'
 	else:
 		link = 'N/A'
 	print(name + '.md with all images written to res/imagemd/')
