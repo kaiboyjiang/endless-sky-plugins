@@ -46,7 +46,7 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 
 ### %name%
 
-![%size%](https://img.shields.io/badge/%convertedsize%-rgb(20,55,35)?style=for-the-badge) ![%lastmodified%](https://img.shields.io/badge/%fancylastmodified%-rgb(45,75,30)?style=for-the-badge) ![Download count](https://img.shields.io/github/downloads/kaiboyjiang/endless-sky-plugins/%name%.zip?displayAssetName=false&style=for-the-badge&label=Downloads&color=rgb(75,85,25))
+![%size%](https://img.shields.io/badge/%convertedsize%-rgb(30,90,50)?style=for-the-badge) ![%lastmodified%](https://img.shields.io/badge/%fancylastmodified%-rgb(20,130,60)?style=for-the-badge) ![Download count](https://img.shields.io/github/downloads/kaiboyjiang/endless-sky-plugins/%name%.zip?displayAssetName=false&style=for-the-badge&label=Downloads&color=rgb(10,170,80))
 
 %icon%
 
