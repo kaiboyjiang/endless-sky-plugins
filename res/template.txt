@@ -21,6 +21,7 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 %description%
 <details>
 <summary> README.md </summary>
+
 %readme%
 </details>
 %screenshots%
