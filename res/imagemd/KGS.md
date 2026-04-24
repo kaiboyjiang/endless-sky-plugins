@@ -1,4 +1,4 @@
-graphic files for the plugin: KGS<br>
+Graphical assets for the KGSplugin:<br>
 <br>
 <table>
 	<tr valign="bottom">

@@ -1,4 +1,4 @@
-graphic files for the plugin: buyable_faesmar<br>
+Graphical assets for the buyable_faesmarplugin:<br>
 <br>
 <table>
 	<tr valign="bottom">
