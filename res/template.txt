@@ -20,8 +20,8 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 <br>
 %description%
 <details>
-<summary>:blue_book: Plugin readme</summary>
-<blockquote>%readme%</blockquote>
+<summary> README.md </summary>
+%readme%
 </details>
 %screenshots%
 <br>
