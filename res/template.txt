@@ -61,5 +61,9 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 %readme%
 </blockquote>
 </details>
+
+<details>
+<summary> Screenshots </summary>
+
 %screenshots%
-<br>
+</details>
