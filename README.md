@@ -630,8 +630,7 @@ Made by kaiboy (aka k.AI). All sprites kitbashed by k.AI with the GIMP.
 <details>
 <summary> Screenshots </summary>
 
-<br>
-screenshots(click to enlarge):<br>
+<br>Click to enlarge.<br>
 <table>
 	<tr>
 		<td><img src="https://raw.githubusercontent.com/kaiboyjiang/endless-sky-plugins/master/screenshots/KGS01.png" width="200"></td>
