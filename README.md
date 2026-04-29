@@ -624,6 +624,10 @@ Made by kaiboy (aka k.AI). All sprites kitbashed by k.AI with the GIMP.
 
 </blockquote>
 </details>
+
+<details>
+<summary> Screenshots </summary>
+
 <br>
 screenshots(click to enlarge):<br>
 <table>
@@ -633,7 +637,7 @@ screenshots(click to enlarge):<br>
 </table>
 <br>
 
-<br>
+</details>
 
 
 ### buyable_faesmar
@@ -710,7 +714,11 @@ Adds the Faes'mar to all Remnant shipyards.
 </blockquote>
 </details>
 
-<br>
+<details>
+<summary> Screenshots </summary>
+
+
+</details>
 
 
 ### buyable_unfettered_weapons
@@ -775,7 +783,11 @@ Adds the Tripulse Shredder, Ionic Blaster Prototype, and Ionic Turret Prototype 
 </blockquote>
 </details>
 
-<br>
+<details>
+<summary> Screenshots </summary>
+
+
+</details>
 
 
 ### buyable_wanderer_ships
@@ -846,7 +858,11 @@ Missions partially copied from Rumskib.
 </blockquote>
 </details>
 
-<br>
+<details>
+<summary> Screenshots </summary>
+
+
+</details>
 
 
 ### wanderer_reverse_thrusters
@@ -919,4 +935,8 @@ First release.
 </blockquote>
 </details>
 
-<br>
+<details>
+<summary> Screenshots </summary>
+
+
+</details>
