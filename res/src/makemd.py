@@ -165,7 +165,7 @@ def make_readme(templatefile, pathtoplugins, indexfile, pluginurl, current_repo)
 				if len(screenshot) - 6 == len(entry):
 					screenshotlist.append(screenshot)
 		if len(screenshotlist) > 0:
-			screenshotcode += '<br>\nscreenshots(click to enlarge):<br>\n<table>\n'
+			screenshotcode += '<br>Click to enlarge.<br>\n<table>\n'
 			for screenshot in screenshotlist:
 				screenpos += 1
 				if screenpos%3 == 1%3:
