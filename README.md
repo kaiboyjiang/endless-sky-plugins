@@ -73,6 +73,8 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 
 
 
+---
+
 ### KGS
 
 ![Download count](https://img.shields.io/github/downloads/kaiboyjiang/endless-sky-plugins/KGS.zip?displayAssetName=false&style=for-the-badge&label=Downloads&color=rgb(30,90,50)) ![23.91 mb](https://img.shields.io/badge/23.91_mb-rgb(20,130,60)?style=for-the-badge) ![2026-04-23](https://img.shields.io/badge/23_Apr_2026-rgb(10,170,80)?style=for-the-badge)
@@ -640,6 +642,8 @@ screenshots(click to enlarge):<br>
 </details>
 
 
+---
+
 ### buyable_faesmar
 
 ![Download count](https://img.shields.io/github/downloads/kaiboyjiang/endless-sky-plugins/buyable_faesmar.zip?displayAssetName=false&style=for-the-badge&label=Downloads&color=rgb(30,90,50)) ![145.7 kb](https://img.shields.io/badge/145.7_kb-rgb(20,130,60)?style=for-the-badge) ![2026-04-23](https://img.shields.io/badge/23_Apr_2026-rgb(10,170,80)?style=for-the-badge)
@@ -721,6 +725,8 @@ Adds the Faes'mar to all Remnant shipyards.
 </details>
 
 
+---
+
 ### buyable_unfettered_weapons
 
 ![Download count](https://img.shields.io/github/downloads/kaiboyjiang/endless-sky-plugins/buyable_unfettered_weapons.zip?displayAssetName=false&style=for-the-badge&label=Downloads&color=rgb(30,90,50)) ![73.67 kb](https://img.shields.io/badge/73.67_kb-rgb(20,130,60)?style=for-the-badge) ![2026-04-23](https://img.shields.io/badge/23_Apr_2026-rgb(10,170,80)?style=for-the-badge)
@@ -789,6 +795,8 @@ Adds the Tripulse Shredder, Ionic Blaster Prototype, and Ionic Turret Prototype 
 
 </details>
 
+
+---
 
 ### buyable_wanderer_ships
 
@@ -864,6 +872,8 @@ Missions partially copied from Rumskib.
 
 </details>
 
+
+---
 
 ### wanderer_reverse_thrusters
 
