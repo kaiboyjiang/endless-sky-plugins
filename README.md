@@ -38,9 +38,9 @@ Any bugs or questions? Ping me in the [official Discord server](https://discord.
 
 Assets for the items found in these plugins are available at [the asset repo](https://github.com/kaiboyjiang/endless-sky-plugin-assets).
 
-A big thank you to Zuckung for this plugin repository template (get it [here](https://github.com/zuckung/endless-sky-plugins?tab=readme-ov-file#other-things)) and Nova1422 (another [plugin](https://github.com/Nova1422/plugins) author) for helping me set it up.
+All of my plugins, and assets for them, are licensed under CC BY-SA 4.0, which essentially means that derivative works must credit me and also be licensed under CC BY-SA 4.0. However, although this is not technically required, I would greatly appreciate it if you ask for permission, or at least inform me, if you use my work. I can be found in the Discord server above.
 
-All of my plugins are licensed under CC BY-SA 4.0, which essentially means that derivative works must credit me and also be licensed under CC BY-SA 4.0. However, although this is not technically required, I would greatly appreciate it if you ask for permission, or at least inform me if you use my work. I can be found in the Discord server above.
+A big thank you to Zuckung for this plugin repository template (get it [here](https://github.com/zuckung/endless-sky-plugins?tab=readme-ov-file#other-things)) and Nova1422 (another [plugin](https://github.com/Nova1422/plugins) author) for helping me set it up.
 
 ## Latest News:
 <table>
