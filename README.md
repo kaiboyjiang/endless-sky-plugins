@@ -35,9 +35,10 @@ macOS:
 </details>
 
 Any bugs or questions? Ping me in the [Endless Sky Community Discord server](https://discord.gg/ZeuASSx), or my personal server:
+
 <iframe src="https://discord.com/widget?id=1506124138283143228&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
-All of my plugins, and assets for them, are licensed under CC BY-SA 4.0, which essentially means that derivative works must credit me and also be licensed under CC BY-SA 4.0. However, although this is not technically required, I would greatly appreciate it if you ask for permission, or at least inform me, if you use my work. I can be found in the Discord server above.
+All of my plugins, and assets for them, are licensed under CC BY-SA 4.0, which essentially means that derivative works must credit me and also be licensed under CC BY-SA 4.0. However, although this is not technically required, I would greatly appreciate it if you ask for permission, or at least inform me, if you use my work. I can be found in the Discord servers above.
 
 A big thank you to Zuckung for this plugin repository template (get it [here](https://github.com/zuckung/endless-sky-plugins?tab=readme-ov-file#other-things)) and Nova1422 (another [plugin](https://github.com/Nova1422/plugins) author) for helping me set it up.
 
