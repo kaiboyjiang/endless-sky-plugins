@@ -293,7 +293,7 @@ def make_readme(templatefile, pathtoplugins, indexfile, pluginurl, current_repo)
 def run():
 	pathtoplugins = 'myplugins/'
 	indexfile = 'README.md'
-	templatefile = 'res/template.txt'
+	templatefile = 'res/template.md'
 	pluginurl, current_repo = check_local()
 	make_readme(templatefile, pathtoplugins, indexfile, pluginurl, current_repo)
 
