@@ -1,8 +1,10 @@
 # Kai's Endless Sky Plugins
 
 [![Download count](https://img.shields.io/github/downloads/kaiboyjiang/endless-sky-plugins/total?style=for-the-badge&label=Downloads&color=rgb(0,165,175))](https://github.com/kaiboyjiang/endless-sky-plugins/releases)
+[![Discord server invite](https://img.shields.io/discord/1506124138283143228?style=for-the-badge&label=Terminal%20K&color=a2a2a2
+)](https://discord.gg/67S7GVSJPE)
 
-This repository contains the plugins I have made for the amazing game [Endless Sky](https://endless-sky.github.io/).
+This repository contains the plugins I have made for the amazing game [Endless Sky](https://endless-sky.github.io).
 
 <details>
 <summary> How to install plugins: </summary>
@@ -14,31 +16,34 @@ This repository contains the plugins I have made for the amazing game [Endless S
 Windows:
 - Download plugin
 - Open archive file (.zip, .rar, etc.)
-- Select the files and copy them to here:
-- `C:\Users\\<user>\AppData\Roaming\endless-sky\plugins\`
+- Select the files and copy them to here: `C:\Users\\<user>\AppData\Roaming\endless-sky\plugins\`
 - `%AppData%\endless-sky\plugins\` works as well
 - If you had ES open, exit the game and start it up again.
 
 Linux:
 - Download plugin
 - Open archive file (.zip, .rar, etc.)
-- Select the files and copy them to here:
-- `~/.local/share/endless-sky/plugins/`
+- Select the files and copy them to here: `~/.local/share/endless-sky/plugins/`
 - If you had ES open, exit the game and start it up again.
 
 macOS:
 - Download plugin
 - Open archive file (.zip, .rar, etc.)
-- Select the files and copy them to here:
-- `~/Library/ApplicationSupport/endless-sky/plugins`
+- Select the files and copy them to here: `~/Library/ApplicationSupport/endless-sky/plugins`
 - If you had ES open, exit the game and start it up again.
 </details>
 
-Any bugs or questions? Ping me in the [Endless Sky Community Discord server](https://discord.gg/ZeuASSx), or [my personal server](https://discord.gg/67S7GVSJPE).
+Any bugs or questions? Post in the [discussions](https://github.com/kaiboyjiang/endless-sky-plugins/discussions), or ping me in the [Endless Sky Community Discord server](https://discord.gg/ZeuASSx) or [my personal server](https://discord.gg/67S7GVSJPE).
+
+<details>
+<summary> Do you want to use my work? </summary>
+
+<br>
 
 All of my plugins, and assets for them, are licensed under CC BY-SA 4.0, which essentially means that derivative works must credit me and also be licensed under CC BY-SA 4.0. However, although this is not technically required, I would greatly appreciate it if you ask for permission, or at least inform me, if you use my work. I can be found in the Discord servers above.
+</details>
 
-A big thank you to Zuckung for this plugin repository template (get it [here](https://github.com/zuckung/endless-sky-plugins?tab=readme-ov-file#other-things)) and Nova1422 (another [plugin](https://github.com/Nova1422/plugins) author) for helping me set it up.
+A big thank you to Zuckung for this plugin repository template (get it [here](https://github.com/zuckung/endless-sky-plugins?tab=readme-ov-file#other-things)) and Nova1422 (another [plugin author](https://github.com/Nova1422/plugins)) for helping me set it up.
 
 %news%
 
