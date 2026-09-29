@@ -251,7 +251,7 @@ def make_readme(templatefile, pathtoplugins, indexfile, pluginurl, current_repo)
 		# gets the %icon% (icon) variable, as an html img
 		if os.path.isfile(pathtoplugins + entry + '/icon@2x.png'):
 			icon = '<img src="' + pathtoplugins + entry + '/icon@2x.png" height="200">'
-		else if os.path.isfile(pathtoplugins + entry + '/icon.png'):
+		elif os.path.isfile(pathtoplugins + entry + '/icon.png'):
 			icon = '<img src="' + pathtoplugins + entry + '/icon.png" height="200">'
 		else:
 			icon = ''
