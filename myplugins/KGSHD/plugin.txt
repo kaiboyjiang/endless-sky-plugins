@@ -1,0 +1,12 @@
+name "KGSHD"
+version 3.0.0
+authors
+	kaiboy
+tags
+	high-dpi
+about "High-DPI assets for KGS, a vanilla+ content expansion plugin."
+about ""
+about "See README.md for more details."
+about "Get the latest version here:"
+about "github.com/kaiboyjiang/endless-sky-"
+about "plugins"
