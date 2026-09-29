@@ -1,0 +1,471 @@
+# event "kgs: navy mark ii upgrade"
+# event "kgs: free worlds carriers"
+# event "kgs: fallcoon developed"
+# event "kgs: pirates develop twin gatlings"
+# event "kgs: pirates use twin gatlings"
+# event "kgs: gatling mass production"
+# event "kgs: plasma assault repeater developed"
+# event "kgs: raindrop developed"
+# event "kgs: ryk's revenge"
+# event "kgs: supercarrier developed"
+# event "kgs: news of free supercarrier"
+# event "kgs: free supercarrier"
+# event "kgs: supercarrier deployed"
+# event "kgs: twin flamethrower developed"
+# event "kgs: flamethrower turret developed"
+# event "kgs: triple plasma turret developed"
+# event "kgs: yestrel developed"
+
+
+
+event "kgs: navy mark ii upgrade"
+	fleet "Small Republic"
+		add variant 3
+			"KGS Maker (Mark II)" 2
+		add variant 3
+			"KGS Maker (Mark II Old Weapons)" 2
+		add variant 5
+			"KGS Mistmaker (Mark II)" 2
+
+		add variant 5
+			"Gunboat (KGS Twin Heavy Laser Mark II)"
+		add variant 5
+			"Gunboat (KGS Triple Heavy Laser Mark II)"
+		add variant 2
+			"Gunboat (KGS Twin Heavy Laser Mark II)"
+			"Gunboat (KGS Triple Heavy Laser Mark II)"
+		add variant 6
+			"Frigate (KGS Particle Howitzer Mark II)"
+
+	fleet "Large Republic"
+		add variant 12
+			"Frigate (Mark II)"
+			"KGS Stormmaker (Mark II)"
+		add variant 7
+			"Frigate (Mark II)"
+			"Frigate (KGS Particle Howitzer Mark II)"
+			"Rainmaker (Mark II)"
+			"Gunboat (Mark II)"
+		add variant 3
+			"Cruiser (KGS Dual Particle Cannon Mark II)"
+			"Combat Drone" 4
+		add variant 3
+			"Cruiser (KGS Dual Particle Cannon Mark II)"
+			"Combat Drone (KGS Particle Mortar)" 4
+		add variant 5
+			"Cruiser (KGS Quad Heavy Laser Turret Mark II)"
+			"Combat Drone" 4
+		add variant 5
+			"Cruiser (KGS Particle Turret Mark II)"
+			"Combat Drone" 4
+		add variant 5
+			"Cruiser (KGS Particle Turret Mark II)"
+			"Combat Drone" 4
+			"Frigate (KGS Particle Howitzer Mark II)"
+			"KGS Stormmaker (Mark II)"
+		add variant 2
+			"Carrier (KGS Quad Heavy Laser Turret Mark II)"
+			"Lance" 8
+			"Combat Drone" 6
+		add variant 2
+			"Carrier (KGS Particle Turret Mark II)"
+			"Lance (KGS Particle Mortar)" 8
+			"Combat Drone (KGS Particle Mortar)" 6
+		add variant 2
+			"Carrier (KGS Particle Turret Mark II)"
+			"Lance (KGS Particle Carronade)" 8
+			"Combat Drone" 6
+		add variant 8
+			"Cruiser (KGS Raindrop Mark II)"
+			"KGS Raindrop (Mark II)" 4
+		add variant 2
+			"KGS Missile Cruiser (Mark II)"
+		add variant 2
+			"KGS Missile Cruiser (Mark II)"
+			"Frigate (Mark II)" 2
+		add variant 3
+			"KGS Missile Cruiser (Mark II)"
+			"Gunboat (Mark II)" 4
+		add variant 3
+			"KGS Missile Cruiser (Mark II)"
+			"Cruiser (Mark II)"
+			"Combat Drone" 4
+
+	fleet "Small Oathkeeper"
+		add variant 3
+			"KGS Maker (Mark II)" 2
+		add variant 3
+			"KGS Maker (Mark II Old Weapons)" 2
+		add variant 5
+			"KGS Mistmaker (Mark II)" 2
+
+		add variant 5
+			"Gunboat (KGS Twin Heavy Laser Mark II)"
+		add variant 5
+			"Gunboat (KGS Triple Heavy Laser Mark II)"
+		add variant 2
+			"Gunboat (KGS Twin Heavy Laser Mark II)"
+			"Gunboat (KGS Triple Heavy Laser Mark II)"
+		add variant 6
+			"Frigate (KGS Particle Howitzer Mark II)"
+
+	fleet "Large Oathkeeper"
+		add variant 12
+			"Frigate (Mark II)"
+			"KGS Stormmaker (Mark II)"
+
+		add variant 7
+			"Frigate (Mark II)"
+			"Frigate (KGS Particle Howitzer Mark II)"
+			"Rainmaker (Mark II)"
+			"Gunboat (Mark II)"
+		add variant 3
+			"Cruiser (KGS Dual Particle Cannon Mark II)"
+			"Combat Drone" 4
+		add variant 3
+			"Cruiser (KGS Dual Particle Cannon Mark II)"
+			"Combat Drone (KGS Particle Mortar)" 4
+		add variant 5
+			"Cruiser (KGS Quad Heavy Laser Turret Mark II)"
+			"Combat Drone" 4
+		add variant 5
+			"Cruiser (KGS Particle Turret Mark II)"
+			"Combat Drone" 4
+		add variant 5
+			"Cruiser (KGS Particle Turret Mark II)"
+			"Combat Drone" 4
+			"Frigate (KGS Particle Howitzer Mark II)"
+			"KGS Stormmaker (Mark II)"
+		add variant 2
+			"Carrier (KGS Quad Heavy Laser Turret Mark II)"
+			"Lance" 8
+			"Combat Drone" 6
+		add variant 2
+			"Carrier (KGS Particle Turret Mark II)"
+			"Lance (KGS Particle Mortar)" 8
+			"Combat Drone (KGS Particle Mortar)" 6
+		add variant 2
+			"Carrier (KGS Particle Turret Mark II)"
+			"Lance (KGS Particle Carronade)" 8
+			"Combat Drone" 6
+		add variant 8
+			"Cruiser (KGS Raindrop Mark II)"
+			"KGS Raindrop (Mark II)" 4
+
+
+
+event "kgs: free worlds carriers"
+	fleet "Large Free Worlds"
+		add variant 1
+			"Roost"
+			"Finch (KGS Javelin Storm Pod)" 4
+		add variant 1
+			"Roost"
+			"Finch (KGS Javelin Strike Pod)" 4
+		add variant 1
+			"Skein"
+			"Finch (KGS Javelin Storm Pod)" 6
+		add variant 1
+			"Skein"
+			"Finch (KGS Javelin Strike Pod)" 6
+		add variant 1
+			"Roost"
+			"Barb (KGS Javelin Mini Pod Turret)" 4
+	fleet "Large Militia"
+		add variant 1
+			"Roost"
+			"Finch (KGS Javelin Storm Pod)" 4
+		add variant 1
+			"Roost"
+			"Finch (KGS Javelin Strike Pod)" 4
+		add variant 1
+			"Skein"
+			"Finch (KGS Javelin Storm Pod)" 6
+		add variant 1
+			"Skein"
+			"Finch (KGS Javelin Strike Pod)" 6
+		add variant 1
+			"Roost"
+			"Barb (KGS Javelin Mini Pod Turret)" 4
+	fleet "Large Southern Pirates"
+		add variant 1
+			"Roost"
+			"Finch (KGS Gatling Snubnose)" 4
+		add variant 1
+			"Roost"
+			"Barb (KGS Javelin Mini Pod Turret)" 4
+
+
+
+event "kgs: fallcoon developed"
+	shipyard "Tarazed Advanced"
+		"KGS Fallcoon"
+
+	fleet "Large Militia"
+		add variant 2
+			"KGS Fallcoon"
+		add variant 3
+			"KGS Fallcoon"
+			"KGS Kingfisher" 2
+
+	fleet "Large Free Worlds"
+		add variant 2
+			"KGS Fallcoon"
+		add variant 3
+			"KGS Fallcoon"
+			"KGS Kingfisher" 2
+
+
+
+event "kgs: pirates develop twin gatlings"
+	outfitter "Pirate Advanced"
+		"KGS Twin Gatling"
+		"KGS Staggered Twin Gatling"
+
+
+
+event "kgs: pirates use twin gatlings"
+	fleet "Small Southern Pirates"
+		add variant 2
+			"Argosy (KGS Twin Gatling)"
+		add variant 1
+			"Argosy (KGS Staggered Twin Gatling)"
+		add variant 2
+			"Clipper (KGS Twin Gatling)"
+		add variant 1
+			"Clipper (KGS Staggered Twin Gatling)"
+		add variant 1
+			"Modified Argosy (KGS Pure Gatling)"
+	fleet "Large Southern Pirates"
+		add variant 2
+			"Bastion (KGS Brawler)"
+
+
+
+event "kgs: gatling mass production"
+	outfitter "Kraz Advanced"
+		"Gatling Gun"
+		"Gatling Turret"
+		"KGS Twin Gatling"
+		"KGS Staggered Twin Gatling"
+		"KGS Triple Gatling"
+		"KGS Quad Gatling"
+		"KGS 2x3 Gatling"
+		"Gatling Gun Ammo"
+		"Bullet Boxes"
+
+
+
+event "kgs: plasma assault repeater developed"
+	shipyard "Tarazed Advanced"
+		remove "KGS Kingfisher"
+		add "KGS Kingfisher (II)"
+	outfitter "Kraz Advanced"
+		"KGS Plasma Assault Repeater"
+
+	fleet "Large Militia"
+		remove variant
+			"KGS Kingfisher"
+		remove variant
+			"KGS Kingfisher" 2
+		remove variant
+			"KGS Kingfisher"
+			"Osprey"
+		remove variant
+			"KGS Kingfisher"
+			"Bastion"
+		remove variant
+			"KGS Kingfisher"
+			"KGS Eyas"
+		remove variant
+			"Falcon"
+			"KGS Kingfisher"
+		remove variant
+			"Falcon"
+			"KGS Kingfisher" 2
+		add variant 15
+			"KGS Kingfisher (II)"
+		add variant 5
+			"KGS Kingfisher (II)" 2
+		add variant 5
+			"KGS Kingfisher (II)"
+			"Osprey"
+		add variant 5
+			"KGS Kingfisher (II)"
+			"Bastion"
+		add variant 5
+			"KGS Kingfisher (II)"
+			"KGS Eyas"
+		add variant 5
+			"Falcon"
+			"KGS Kingfisher (II)"
+		add variant 5
+			"Falcon"
+			"KGS Kingfisher (II)" 2
+
+	fleet "Large Free Worlds"
+		remove variant
+			"KGS Kingfisher"
+		remove variant
+			"KGS Kingfisher" 2
+		remove variant
+			"KGS Kingfisher"
+			"Osprey"
+		remove variant
+			"KGS Kingfisher"
+			"Bastion"
+		remove variant
+			"KGS Kingfisher"
+			"KGS Eyas"
+		remove variant
+			"Falcon"
+			"KGS Kingfisher"
+		remove variant
+			"Falcon"
+			"KGS Kingfisher" 2
+		add variant 15
+			"KGS Kingfisher (II)"
+		add variant 5
+			"KGS Kingfisher (II)" 2
+		add variant 5
+			"KGS Kingfisher (II)"
+			"Osprey"
+		add variant 5
+			"KGS Kingfisher (II)"
+			"Bastion"
+		add variant 5
+			"KGS Kingfisher (II)"
+			"KGS Eyas"
+		add variant 5
+			"Falcon"
+			"KGS Kingfisher (II)"
+		add variant 5
+			"Falcon"
+			"KGS Kingfisher (II)" 2
+
+
+
+event "kgs: raindrop developed"
+	shipyard "Navy Basics"
+		"KGS Raindrop"
+
+	fleet "Large Republic"
+		add variant 4
+			"Cruiser (KGS Raindrop)"
+			"KGS Raindrop" 4
+
+	fleet "Large Oathkeeper"
+		add variant 4
+			"Cruiser (KGS Raindrop)"
+			"KGS Raindrop" 4
+
+
+
+event "kgs: ryk's revenge"
+
+
+
+event "kgs: supercarrier developed"
+event "kgs: news of free supercarrier"
+
+event "kgs: free supercarrier"
+	outfitter "Lovelace Advanced"
+		"KGS Particle Howitzer Turret"
+		"KGS Palisade AM System"
+
+event "kgs: supercarrier deployed"
+	fleet "Large Republic"
+		add variant 1
+			"KGS Supercarrier"
+			"Lance (KGS Particle Carronade)" 12
+			"Lance (KGS Particle Mortar)" 20
+			"Combat Drone (KGS Particle Mortar)" 24
+			"KGS Raindrop (Mark II)" 12
+			"KGS Missile Cruiser (Mark II)" 2
+			"Combat Drone" 8
+	fleet "Large Oathkeeper"
+		add variant 1
+			"KGS Supercarrier"
+			"Lance (KGS Particle Carronade)" 12
+			"Lance (KGS Particle Mortar)" 20
+			"Combat Drone (KGS Particle Mortar)" 24
+			"KGS Raindrop (Mark II)" 12
+			"KGS Missile Cruiser (Mark II)" 2
+			"Combat Drone" 8
+
+
+
+event "kgs: twin flamethrower developed"
+	outfitter "Kraz Advanced"
+		"KGS Twin Flamethrower"
+	fleet "Large Free Worlds"
+		add variant 4
+			"Osprey (KGS Twin Flamethrower)"
+			"Fury (Flamethrower)"
+		add variant 4
+			"Falcon (KGS Twin Flamethrower)"
+			"Osprey (KGS Twin Flamethrower)" 2
+	fleet "Large Militia"
+		add variant 4
+			"Osprey (KGS Twin Flamethrower)"
+			"Fury (Flamethrower)"
+		add variant 4
+			"Falcon (KGS Twin Flamethrower)"
+			"Osprey (KGS Twin Flamethrower)" 2
+	fleet "Large Southern Pirates"
+		add variant 1
+			"Osprey (KGS Twin Flamethrower)"
+			"Fury (Flamethrower)"
+		add variant 1
+			"Falcon (KGS Twin Flamethrower)"
+			"Fury (Flamethrower)" 2
+
+
+
+event "kgs: flamethrower turret developed"
+	outfitter "Kraz Advanced"
+		"KGS Flamethrower Turret"
+	fleet "Large Free Worlds"
+		add variant 4
+			"Osprey (KGS Flamethrower Turret)"
+			"Fury (Flamethrower)"
+		add variant 2
+			"Falcon (KGS Flamethrower Turret)"
+			"Osprey (KGS Twin Flamethrower)"
+			"Osprey (KGS Flamethrower Turret)"
+		add variant 1
+			"Falcon (KGS Flamethrower Turret)"
+			"Osprey (KGS Flamethrower Turret)" 2
+	fleet "Large Militia"
+		add variant 4
+			"Osprey (KGS Flamethrower Turret)"
+			"Fury (Flamethrower)"
+		add variant 2
+			"Falcon (KGS Flamethrower Turret)"
+			"Osprey (KGS Twin Flamethrower)"
+			"Osprey (KGS Flamethrower Turret)"
+		add variant 1
+			"Falcon (KGS Flamethrower Turret)"
+			"Osprey (KGS Flamethrower Turret)" 2
+	fleet "Large Southern Pirates"
+		add variant 1
+			"Osprey (KGS Flamethrower Turret)"
+			"Fury (Flamethrower)"
+		add variant 1
+			"Falcon (KGS Flamethrower Turret)"
+			"Fury (Flamethrower)" 2
+
+
+
+event "kgs: triple plasma turret developed"
+	outfitter "Kraz Advanced"
+		"KGS Triple Plasma Turret"
+	fleet "Large Free Worlds"
+		add variant 4
+			"Dreadnought (KGS Triple Plasma Turret)"
+
+
+
+event "kgs: yestrel developed"
+	shipyard "Kestrel"
+		"KGS Yestrel"
