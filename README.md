@@ -49,6 +49,7 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-09-29 | update: KGSHD<br>
 2026-09-29 | update: KGS<br>
 2026-04-23 | update: KGS<br>
 2026-04-23 | update: wanderer_reverse_thrusters<br>
@@ -58,7 +59,6 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 2026-02-15 | update: wanderer_reverse_thrusters<br>
 2026-02-11 | update: buyable_faesmar<br>
 2025-12-25 | update: buyable_wanderer_ships<br>
-2025-12-23 | update: KGS<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -70,11 +70,12 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 <tr valign="top">
 <td><img width="294" height="1"><br>
 <a href="https://github.com/kaiboyjiang/endless-sky-plugins?tab=readme-ov-file#KGS">KGS</a><br>
+<a href="https://github.com/kaiboyjiang/endless-sky-plugins?tab=readme-ov-file#KGSHD">KGSHD</a><br>
+<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="https://github.com/kaiboyjiang/endless-sky-plugins?tab=readme-ov-file#buyable_faesmar">buyable_faesmar</a><br>
-<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="https://github.com/kaiboyjiang/endless-sky-plugins?tab=readme-ov-file#buyable_unfettered_weapons">buyable_unfettered_weapons</a><br>
-<a href="https://github.com/kaiboyjiang/endless-sky-plugins?tab=readme-ov-file#buyable_wanderer_ships">buyable_wanderer_ships</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
+<a href="https://github.com/kaiboyjiang/endless-sky-plugins?tab=readme-ov-file#buyable_wanderer_ships">buyable_wanderer_ships</a><br>
 <a href="https://github.com/kaiboyjiang/endless-sky-plugins?tab=readme-ov-file#wanderer_reverse_thrusters">wanderer_reverse_thrusters</a><br>
 <img width="294" height="1"><br></td></tr></table>
 
@@ -1012,6 +1013,73 @@ Made by kaiboy (aka k.AI). All sprites kitbashed by k.AI. Most sprites were made
 	</tr>
 </table>
 <br>
+
+</details>
+
+
+---
+
+### KGSHD
+
+![Download count](https://img.shields.io/github/downloads/kaiboyjiang/endless-sky-plugins/KGSHD.zip?displayAssetName=false&style=for-the-badge&label=Downloads&color=rgb(30,90,50)) ![21.43 mb](https://img.shields.io/badge/21.43_mb-rgb(20,130,60)?style=for-the-badge) ![2026-09-29](https://img.shields.io/badge/29_Sep_2026-rgb(10,170,80)?style=for-the-badge)
+
+<img src="myplugins/KGSHD/icon@2x.png" height="200">
+
+[![Download](https://img.shields.io/badge/Download_v3.0.0-rgb(20,40,90)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v3.0.0-KGSHD/KGSHD.zip) [![Versions](https://img.shields.io/badge/Versions-rgb(65,90,130)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases?q=KGSHD&expanded=true) [![Data](https://img.shields.io/badge/Data-rgb(120,140,170)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/KGSHD/) <a href="res/imagemd/KGSHD.md">![Assets](https://img.shields.io/badge/Assets-rgb(185,200,215)?style=for-the-badge)</a><br>
+<br>
+>High-DPI assets for KGS, a vanilla+ content expansion plugin.
+>
+>See README.md for more details.
+>Get the latest version here:
+>github.com/kaiboyjiang/endless-sky-
+>plugins
+
+<details>
+<summary> README.md </summary>
+
+<blockquote>
+
+# Kai's GIMPed Stuff High DPI
+
+
+
+![Icon](https://raw.githubusercontent.com/kaiboyjiang/endless-sky-plugins/v3.0.0-KGSHD/myplugins/KGSHD/icon.png)
+
+
+
+[![Download](https://img.shields.io/badge/Download-darkgreen?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v3.0.0-KGSHD/KGSHD.zip)
+
+
+
+This plugin contains high-DPI image assets for [the KGS plugin](https://github.com/kaiboyjiang/endless-sky-plugins?tab=readme-ov-file#KGS), compressed with oxipng.
+
+
+
+## Releases
+
+
+
+<details>
+
+<summary> v3.0.0 (29 Sep 2026) </summary>
+
+
+
+The eighth release of KGS and the first release of KGSHD.
+
+This release contains 261 high-DPI assets.
+
+
+
+</details>
+
+
+</blockquote>
+</details>
+
+<details>
+<summary> Screenshots </summary>
+
 
 </details>
 

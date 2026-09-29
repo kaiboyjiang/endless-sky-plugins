@@ -1,4 +1,4 @@
-KGSHD|3.0.0.fixed
+KGSHD|3.0.0
 KGS|3.0.0
 buyable_faesmar|1.1.1
 buyable_unfettered_weapons|1.1.0
