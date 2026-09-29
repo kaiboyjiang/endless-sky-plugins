@@ -1,0 +1,8 @@
+# outfitter "Hai Advanced"
+# outfitter "Unfettered Basics"
+
+outfitter "Hai Advanced"
+	"KGS Hyperpulse Cannon"
+
+outfitter "Unfettered Basics"
+	"KGS Bipulse Ripper"
