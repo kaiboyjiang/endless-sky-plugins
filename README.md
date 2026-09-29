@@ -88,7 +88,7 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 
 ![Download count](https://img.shields.io/github/downloads/kaiboyjiang/endless-sky-plugins/KGS.zip?displayAssetName=false&style=for-the-badge&label=Downloads&color=rgb(30,90,50)) ![6.41 mb](https://img.shields.io/badge/6.41_mb-rgb(20,130,60)?style=for-the-badge) ![2026-09-29](https://img.shields.io/badge/29_Sep_2026-rgb(10,170,80)?style=for-the-badge)
 
-
+<img src="myplugins/KGS/icon.png" height="200">
 
 [![Download](https://img.shields.io/badge/Download_v3.0.0-rgb(20,40,90)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v3.0.0-KGS/KGS.zip) [![Versions](https://img.shields.io/badge/Versions-rgb(65,90,130)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases?q=KGS&expanded=true) [![Data](https://img.shields.io/badge/Data-rgb(120,140,170)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/KGS/) <a href="res/imagemd/KGS.md">![Assets](https://img.shields.io/badge/Assets-rgb(185,200,215)?style=for-the-badge)</a><br>
 <br>
