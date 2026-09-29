@@ -49,6 +49,7 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2026-09-29 | update: KGS<br>
 2026-04-23 | update: KGS<br>
 2026-04-23 | update: wanderer_reverse_thrusters<br>
 2026-04-23 | update: buyable_wanderer_ships<br>
@@ -58,7 +59,6 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 2026-02-11 | update: buyable_faesmar<br>
 2025-12-25 | update: buyable_wanderer_ships<br>
 2025-12-23 | update: KGS<br>
-2025-12-22 | update: buyable_wanderer_ships<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -86,11 +86,11 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 
 ### KGS
 
-![Download count](https://img.shields.io/github/downloads/kaiboyjiang/endless-sky-plugins/KGS.zip?displayAssetName=false&style=for-the-badge&label=Downloads&color=rgb(30,90,50)) ![23.91 mb](https://img.shields.io/badge/23.91_mb-rgb(20,130,60)?style=for-the-badge) ![2026-04-23](https://img.shields.io/badge/23_Apr_2026-rgb(10,170,80)?style=for-the-badge)
+![Download count](https://img.shields.io/github/downloads/kaiboyjiang/endless-sky-plugins/KGS.zip?displayAssetName=false&style=for-the-badge&label=Downloads&color=rgb(30,90,50)) ![6.41 mb](https://img.shields.io/badge/6.41_mb-rgb(20,130,60)?style=for-the-badge) ![2026-09-29](https://img.shields.io/badge/29_Sep_2026-rgb(10,170,80)?style=for-the-badge)
 
-<img src="myplugins/KGS/icon@2x.png" height="200">
 
-[![Download](https://img.shields.io/badge/Download_v2.0.1-rgb(20,40,90)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v2.0.1-KGS/KGS.zip) [![Versions](https://img.shields.io/badge/Versions-rgb(65,90,130)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases?q=KGS&expanded=true) [![Data](https://img.shields.io/badge/Data-rgb(120,140,170)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/KGS/) <a href="res/imagemd/KGS.md">![Assets](https://img.shields.io/badge/Assets-rgb(185,200,215)?style=for-the-badge)</a><br>
+
+[![Download](https://img.shields.io/badge/Download_v3.0.0-rgb(20,40,90)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v3.0.0-KGS/KGS.zip) [![Versions](https://img.shields.io/badge/Versions-rgb(65,90,130)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases?q=KGS&expanded=true) [![Data](https://img.shields.io/badge/Data-rgb(120,140,170)?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/tree/main/myplugins/KGS/) <a href="res/imagemd/KGS.md">![Assets](https://img.shields.io/badge/Assets-rgb(185,200,215)?style=for-the-badge)</a><br>
 <br>
 >A vanilla+ content expansion plugin.
 >
@@ -108,11 +108,11 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 
 
 
-![Icon](https://raw.githubusercontent.com/kaiboyjiang/endless-sky-plugins/v2.0.1-KGS/myplugins/KGS/icon.png)
+![Icon](https://raw.githubusercontent.com/kaiboyjiang/endless-sky-plugins/v3.0.0-KGS/myplugins/KGS/icon.png)
 
 
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v2.0.1-KGS/KGS.zip)
+[![Download](https://img.shields.io/badge/Download-darkgreen?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v3.0.0-KGS/KGS.zip)
 
 
 
@@ -124,6 +124,10 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 
 
 
+- [Outfits](#outfits)
+
+
+
 - [Releases](#releases)
 
 
@@ -132,7 +136,7 @@ A big thank you to Zuckung for this plugin repository template (get it [here](ht
 
 
 
-A vanilla+ content expansion plugin for Endless Sky, containing 34 ships and 40 weapons.
+A vanilla+ content expansion plugin for Endless Sky, containing 43 ships, 73 weapons, and 1 outfit.
 
 
 
@@ -142,27 +146,65 @@ A vanilla+ content expansion plugin for Endless Sky, containing 34 ships and 40 
 
 <details>
 
-<summary>Human ships</summary>
+<summary> Human ships (27) </summary>
 
 
 
-- Dipper (Clipper kitbash)
+- Dipper
 
-- Eyas, Kingfisher, Kookaburra, and Fallcoon (Falcon kitbashes)
+- Dragonfly
 
-- Eyrie (Aerie variant)
+- Eyas
 
-- Hauler IV, V, VI, and VII
+- Kingfisher
 
-- Maker, Mistmaker, Stormmaker, and Raindrop (Rainmaker kitbashes)
+- Kookaburra
 
-- Nightingale (Raven kitbash)
+- Swift
 
-- Sparrowhawk (Sparrow and Hawk kitbash)
+- Fallcoon
 
-- Stiletto (Dagger kitbash)
+- Eyrie
 
-- Yestrel (Kestrel kitbash)
+- Hauler IV
+
+- Hauler V
+
+- Hauler VI
+
+- Hauler VII
+
+- Maker
+
+- Missile Cruiser
+
+- Mistmaker
+
+- Nightingale
+
+- Raindrop
+
+- Rampart
+
+- Scow
+
+- Sliver
+
+- Sparrowhawk
+
+- Spearhead
+
+- Stiletto
+
+- Stormmaker
+
+- Supercarrier
+
+- Tortoise
+
+- Yestrel
+
+
 
 </details>
 
@@ -170,11 +212,35 @@ A vanilla+ content expansion plugin for Endless Sky, containing 34 ships and 40 
 
 <details>
 
-<summary>Remnant ships</summary>
+<summary> Remnant ships (12) </summary>
 
 
 
-- Silver variants of all Remnant ships
+- Silver Albatross
+
+- Silver Gull
+
+- Silver Ibis
+
+- Silver Merganser
+
+- Silver Pelican
+
+- Silver Penguin
+
+- Silver Peregrine
+
+- Silver Petrel
+
+- Silver Puffin
+
+- Silver Smew
+
+- Silver Starling
+
+- Silver Tern
+
+
 
 </details>
 
@@ -182,11 +248,17 @@ A vanilla+ content expansion plugin for Endless Sky, containing 34 ships and 40 
 
 <details>
 
-<summary>Korath ships</summary>
+<summary> Korath ships (3) </summary>
 
 
 
-- Biolofez, Triolofez, and Yolofez ('olofez kitbashes)
+- Biolofez
+
+- Triolofez
+
+- Yolofez
+
+
 
 </details>
 
@@ -194,11 +266,13 @@ A vanilla+ content expansion plugin for Endless Sky, containing 34 ships and 40 
 
 <details>
 
-<summary>Wanderer ships</summary>
+<summary> Wanderer ships (1) </summary>
 
 
 
-- Rapid Stream (Deep River kitbash)
+- Rapid Stream
+
+
 
 </details>
 
@@ -210,11 +284,29 @@ A vanilla+ content expansion plugin for Endless Sky, containing 34 ships and 40 
 
 <details>
 
-<summary>Human weapons</summary>
+<summary> Human weapons (43) </summary>
 
 
 
 - Mini Blaster
+
+- Triple Blaster
+
+- Quad Blaster
+
+- Hexablaster
+
+- Nonablaster
+
+- Dodecablaster
+
+- Hexakaidecablaster
+
+- Twin Heavy Laser
+
+- Triple Heavy Laser
+
+- Particle Mortar
 
 - Particle Carronade
 
@@ -226,19 +318,51 @@ A vanilla+ content expansion plugin for Endless Sky, containing 34 ships and 40 
 
 - Plasma Assault Repeater
 
+- Triple Blaster Turret
+
+- Triple Mod Blaster Turret
+
+- Quad Mod Blaster Turret
+
+- Quad Heavy Laser Turret
+
+- Palisade AM System
+
+- Triple Plasma Turret
+
+- Particle Mortar Turret
+
+- Particle Carronade Turret
+
 - Particle Turret
+
+- Particle Howitzer Turret
 
 - Javelin Micro Pod
 
 - Javelin Launcher
 
-- Javelin Storm Pod and Launcher
+- Javelin Mini Pod Turret
 
-- Javelin Strike Pod and Launcher
+- Javelin Storm Pod
+
+- Javelin Storm Launcher
+
+- Javelin Strike Pod
+
+- Javelin Strike Launcher
 
 - Javelin Micro Pod Deployer
 
-- Twin, Staggered Twin, Triple, Quad, and 2x3 Gatling Gun
+- Twin Gatling Gun
+
+- Staggered Twin Gatling Gun
+
+- Triple Gatling Gun
+
+- Quad Gatling Gun
+
+- 2x3 Gatling Gun
 
 - Quad Gatling Turret
 
@@ -248,13 +372,17 @@ A vanilla+ content expansion plugin for Endless Sky, containing 34 ships and 40 
 
 - Twin Flamethrower
 
+- Flamethrower Turret
+
+
+
 </details>
 
 
 
 <details>
 
-<summary>Hai weapons</summary>
+<summary> Hai weapons (10) </summary>
 
 
 
@@ -262,7 +390,23 @@ A vanilla+ content expansion plugin for Endless Sky, containing 34 ships and 40 
 
 - Bipulse Ripper
 
-- Twin, Triple, Quad, 2x3, 3x3, 3x4, 4x4, and 4x5 Skipper Railgun
+- Twin Skipper Railgun
+
+- Triple Skipper Railgun
+
+- Quad Skipper Railgun
+
+- 2x3 Skipper Railgun
+
+- 3x3 Skipper Railgun
+
+- 3x4 Skipper Railgun
+
+- 4x4 Skipper Railgun
+
+- 4x5 Skipper Railgun
+
+
 
 </details>
 
@@ -270,7 +414,45 @@ A vanilla+ content expansion plugin for Endless Sky, containing 34 ships and 40 
 
 <details>
 
-<summary>Remnant weapons</summary>
+<summary> Avgi weapons (13) </summary>
+
+
+
+- 1x1 VLS
+
+- 1x2 VLS
+
+- 2x2 VLS
+
+- 2x3 VLS
+
+- 3x4 VLS
+
+- 3x5 VLS
+
+- 4x6 VLS
+
+- 5x6 VLS
+
+- 6x8 VLS
+
+- 6x10 VLS
+
+- 6x12 VLS
+
+- 9x12 VLS
+
+- 12x12 VLS
+
+
+
+</details>
+
+
+
+<details>
+
+<summary> Remnant weapons (3) </summary>
 
 
 
@@ -280,19 +462,25 @@ A vanilla+ content expansion plugin for Endless Sky, containing 34 ships and 40 
 
 - Trithrasher
 
+
+
 </details>
 
 
 
 <details>
 
-<summary>Korath weapons</summary>
+<summary> Korath weapons (3) </summary>
 
 
 
 - Binary Repeater
 
-- Double Digger Mining Beam and Turret
+- Double Digger Mining Beam
+
+- Double Digger Mining Turret
+
+
 
 </details>
 
@@ -300,11 +488,31 @@ A vanilla+ content expansion plugin for Endless Sky, containing 34 ships and 40 
 
 <details>
 
-<summary>Bunrodea weapons</summary>
+<summary> Bunrodea weapons (1) </summary>
 
 
 
 - Twin Mandible Cannon
+
+
+
+</details>
+
+
+
+## Outfits
+
+
+
+<details>
+
+<summary> Human outfits (1) </summary>
+
+
+
+- Capacitor
+
+
 
 </details>
 
@@ -316,11 +524,133 @@ A vanilla+ content expansion plugin for Endless Sky, containing 34 ships and 40 
 
 <details>
 
+<summary> v3.0.0 (29 Sep 2026) </summary>
+
+
+
+The eighth release of KGS.
+
+This release contains 9 new ships, 20 new weapons, and 1 new outfit, for a total of 43 ships, 73 weapons, and 1 outfit..
+
+
+
+#### New ships
+
+- Dragonfly (Aerie kitbash)
+
+- Missile Cruiser (Cruiser x Rainmaker kitbash)
+
+- Scow (Freighter kitbash)
+
+- Sliver (Flivver x Rainmaker kitbash)
+
+- Spearhead (Protector kitbash)
+
+- Supercarrier (Carrier x Cruiser x Rainmaker kitbash)
+
+- Swift (Falcon kitbash)
+
+- Tortoise (Behemoth x Firebird kitbash)
+
+- Rampart (Bulwark kitbash)
+
+
+
+#### New weapons
+
+- Triple Blaster
+
+- Quad Blaster
+
+- Hexablaster
+
+- Nonablaster
+
+- Dodecablaster
+
+- Hexakaidecablaster
+
+- Twin Heavy Laser
+
+- Triple Heavy Laser
+
+- Particle Mortar
+
+- Particle Mortar Turret
+
+- Particle Carronade Turret
+
+- Particle Howitzer Turret
+
+- Quad Heavy Laser Turret
+
+- Palisade AM System
+
+- Triple Plasma Turret
+
+- Javelin Mini Pod Turret
+
+- Triple Blaster Turret
+
+- Triple Mod Blaster Turret
+
+- Quad Mod Blaster Turret
+
+- Flamethrower Turret
+
+
+
+#### New outfits
+
+- Capacitor
+
+
+
+#### Other changes
+
+- Increased the turn rate of the Particle Turret
+
+- Added the VLSes to the list of weapons for v2.0.0
+
+- Fixed a typo in the description of the Mistmaker
+
+- Adjusted the description of the Nightingale
+
+- Adjusted the description of the Eyas
+
+- Fixed the Twin Flamethrower appearing in outfitters before the Flamethrower is available
+
+- Added the Eyrie to Advanced Northern Pirate shipyards
+
+- Nerfed the drag of the Stormmaker from 5.5 to 7.5
+
+- Added the Stormmaker to advanced Navy shipyards
+
+- Added the Mini Blaster to Kraz and Pirate outfitters
+
+- Sorted outfits using series
+
+- Increased the price of the Yestrel
+
+- Added variants and fleets using the Twin Flamethrower
+
+
+
+</details>
+
+
+
+<details>
+
 <summary> v2.0.1 (23 Apr 2026) </summary>
 
 
 
 The seventh release of KGS, released on the same day as v2.0.0, containing a hotfix removing the test system.
+
+This release contains 34 ships and 53 weapons.
+
+
 
 </details>
 
@@ -334,7 +664,7 @@ The seventh release of KGS, released on the same day as v2.0.0, containing a hot
 
 The sixth and largest ever release of KGS.
 
-This release contains 34 ships and 40 weapons.
+This release contains 34 ships and 53 weapons.
 
 
 
@@ -402,6 +732,8 @@ This release contains 34 ships and 40 weapons.
 
 - Bipulse Ripper
 
+- 1x1, 1x2, 2x2, 2x3, 3x4, 3x5, 4x6, 5x6, 6x8, 6x10, 6x12, 9x12, and 12x12 VLS
+
 - Twinhibitor
 
 - Bithrasher
@@ -428,7 +760,9 @@ This release contains 34 ships and 40 weapons.
 
 
 
-I dedicate this release to the memory of Empty.
+I dedicate this release to the memory of [empty](https://emptyskk.gumroad.com/).
+
+
 
 </details>
 
@@ -452,6 +786,8 @@ This release contains 1 ship and 13 weapons.
 
 - Added a short mission chain to unlock the Triple, Quad, and 2x3 Gatlings
 
+
+
 </details>
 
 
@@ -469,6 +805,8 @@ This release contains 1 ship and 9 weapons.
 
 
 - Adjusted the turret hardpoints of the Hauler IV
+
+
 
 </details>
 
@@ -488,6 +826,8 @@ This release contains 1 ship and 9 weapons.
 
 - Fixes a typo in the description of the plugin
 
+
+
 </details>
 
 
@@ -506,6 +846,8 @@ This release contains 1 ship and 9 weapons.
 
 - Hauler IV
 
+
+
 </details>
 
 
@@ -520,6 +862,8 @@ The first release of KGS, merging More Gatling Guns and More Skipper Railguns.
 
 This release contains 0 ships and 9 weapons.
 
+
+
 </details>
 
 
@@ -528,7 +872,7 @@ This release contains 0 ships and 9 weapons.
 
 
 
-Made by kaiboy (aka k.AI). All sprites kitbashed by k.AI with the GIMP.
+Made by kaiboy (aka k.AI). All sprites kitbashed by k.AI. Most sprites were made with the GIMP, with a few made with Blender. Compressed with oxipng. Special thanks to Witch of Many Colours for providing her Blender template.
 
 
 
@@ -538,11 +882,13 @@ Made by kaiboy (aka k.AI). All sprites kitbashed by k.AI with the GIMP.
 
 
 
-- 'olofezes (Ludmina)
+- 'olofez kitbashes (Ludmina)
 
 - Binary Repeater (Zoura)
 
-- Digger Mining Beam derivatives (Ludmina)
+- Digger Mining Beam kitbashes (Ludmina)
+
+- Dragonfly (Tau)
 
 - Dual Particle Cannon (Lunella)
 
@@ -550,7 +896,7 @@ Made by kaiboy (aka k.AI). All sprites kitbashed by k.AI with the GIMP.
 
 - Gatling Guns (Ludmina)
 
-- Haulers (Nova)
+- Hauler kitbashes (Nova)
 
 - Javelin Micro Pod Deployer (Zoura)
 
@@ -564,9 +910,15 @@ Made by kaiboy (aka k.AI). All sprites kitbashed by k.AI with the GIMP.
 
 - Skipper Railgun derivatives (Nana)
 
+- Spearhead (Magma)
+
 - Stormmaker (Lowry)
 
+- Triple Plasma Turret (Novian Fenrir)
+
 - Yolofez (Fluora)
+
+
 
 </details>
 
@@ -587,6 +939,8 @@ Made by kaiboy (aka k.AI). All sprites kitbashed by k.AI with the GIMP.
 - Claudiu
 
 - Cracked Emerald
+
+- Daeridanii
 
 - Eggapegawsus
 
@@ -610,9 +964,13 @@ Made by kaiboy (aka k.AI). All sprites kitbashed by k.AI with the GIMP.
 
 - Lunella
 
+- Magma
+
 - Nana
 
 - Nova
+
+- Novian Fenrir
 
 - Nuke Guy
 
@@ -622,13 +980,21 @@ Made by kaiboy (aka k.AI). All sprites kitbashed by k.AI with the GIMP.
 
 - Sachiho Vanihalla
 
+- Tau
+
 - the114dragon
 
 - timeout
 
+- TOMGOO~1.EXE
+
+- Witch of Many Colours
+
 - Zoura
 
 - zuckung
+
+
 
 </details>
 
