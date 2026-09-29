@@ -1,9 +1,0 @@
-# event "kgs: binary repeater developed"
-
-
-
-event "kgs: binary repeater developed"
-	fleet "Korath Defense"
-		add variant 3
-			"Palavret" 3
-			"'olofez (KGS Binary Repeater)" 6
