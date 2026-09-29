@@ -14,7 +14,7 @@
 
 - [About this plugin](#about)
 
-A vanilla+ content expansion plugin for Endless Sky, containing 43 ships, 73 weapons, and 1 outfit.
+A vanilla+ content expansion plugin for Endless Sky, containing 43 ships, 73 weapons, and 1 outfit. For high-DPI monitors, download [KGSHD](https://github.com/kaiboyjiang/endless-sky-plugins?tab=readme-ov-file#KGSHD) alongside KGS for higher resolution sprites.
 
 ## Ships
 
@@ -263,6 +263,7 @@ This release contains 9 new ships, 20 new weapons, and 1 new outfit, for a total
 - Sorted outfits using series
 - Increased the price of the Yestrel
 - Added variants and fleets using the Twin Flamethrower
+- Moved high-DPI assets to KGSHD
 
 </details>
 
