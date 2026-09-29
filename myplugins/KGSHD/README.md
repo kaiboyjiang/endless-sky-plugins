@@ -4,7 +4,7 @@
 
 [![Download](https://img.shields.io/badge/Download-darkgreen?style=for-the-badge)](https://github.com/kaiboyjiang/endless-sky-plugins/releases/download/v3.0.0-KGSHD/KGSHD.zip)
 
-This plugin contains high-DPI age assets for [the KGS plugin](https://github.com/kaiboyjiang/endless-sky-plugins?tab=readme-ov-file#KGS), compressed with oxipng.
+This plugin contains high-DPI image assets for [the KGS plugin](https://github.com/kaiboyjiang/endless-sky-plugins?tab=readme-ov-file#KGS), compressed with oxipng.
 
 ## Releases
 
