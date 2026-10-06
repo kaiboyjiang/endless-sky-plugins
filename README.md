@@ -1012,6 +1012,7 @@ Made by kaiboy (aka k.AI). All sprites kitbashed by k.AI. Most sprites were made
 <table>
 	<tr>
 		<td><img src="https://raw.githubusercontent.com/kaiboyjiang/endless-sky-plugins/master/screenshots/KGS01.png" width="200"></td>
+		<td><img src="https://raw.githubusercontent.com/kaiboyjiang/endless-sky-plugins/master/screenshots/KGS02.png" width="200"></td>
 	</tr>
 </table>
 <br>
